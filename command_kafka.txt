@@ -1,0 +1,26 @@
+Kafka Producer Command:
+-----------------------
+Use the following command to run the Kafka producer:
+
+$ python kafka_producer.py
+
+Kafka Producer Description:
+- This command runs a Python script named 'kafka_producer.py' that produces messages to the 'demo_test' Kafka topic.
+- Make sure to replace the Kafka broker address and the path to your CSV file within the script as needed.
+
+-----------------------
+
+Kafka Consumer Command:
+-----------------------
+Use the following command to run the Kafka consumer:
+
+$ python kafka_consumer.py
+
+Kafka Consumer Description:
+- This command runs a Python script named 'kafka_consumer.py' that consumes messages from the 'demo_test' Kafka topic.
+- The consumer processes messages and stores them in Google Cloud Storage (GCS).
+- Replace the Kafka broker address and GCS bucket information within the script as necessary.
+
+Note: Ensure that you have the required dependencies installed, such as the 'kafka-python' library and 'gcsfs'.
+
+-----------------------
