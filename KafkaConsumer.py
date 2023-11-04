@@ -16,7 +16,7 @@ bq_client = bigquery.Client(credentials=credentials)
 table_id = 'stock-market-realtime-analysis.HadikDataset.hadakTableau'
 
 # Create a Kafka consumer
-c = KafkaConsumer('your_topic_name', bootstrap_servers='localhost:9092')
+c = KafkaConsumer('Stock_Topic', bootstrap_servers='localhost:9092')
 
 def main():
     try:

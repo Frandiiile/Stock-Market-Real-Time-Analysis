@@ -1,0 +1,1000 @@
+2023-11-04 23:34:03 Produced message on topic Stock_Topic with value of {"Open": 434.989990234375, "High": 447.3299865722656, "Low": 433.5, "Close": 440.8599853515625, "Volume": 8413100, "Stock": "NFLX", "Date": "2023-11-04"}
+
+2023-11-04 23:34:04 Produced message on topic Stock_Topic with value of {"Open": 183.12271513340767, "High": 184.14134389926085, "Low": 181.77454479216084, "Close": 183.70193481445312, "Volume": 57462900, "Stock": "AAPL", "Date": "2023-11-04"}
+
+2023-11-04 23:34:05 Produced message on topic Stock_Topic with value of {"Open": 4366.2900390625, "High": 4391.81982421875, "Low": 4337.85009765625, "Close": 4372.58984375, "Volume": 4252110000, "Stock": "^GSPC", "Date": "2023-11-04"}
+
+2023-11-04 23:34:06 Produced message on topic Stock_Topic with value of {"Open": 333.6336270011477, "High": 338.3237093626871, "Low": 332.10686069249385, "Close": 336.6272888183594, "Volume": 26003800, "Stock": "MSFT", "Date": "2023-11-04"}
+
+2023-11-04 23:34:07 Produced message on topic Stock_Topic with value of {"Open": 123.0999984741211, "High": 124.0500030517578, "Low": 121.4499969482422, "Close": 123.66999816894533, "Volume": 30592300, "Stock": "GOOGL", "Date": "2023-11-04"}
+
+2023-11-04 23:34:08 Produced message on topic Stock_Topic with value of {"Open": 4365.330078125, "High": 4439.2001953125, "Low": 4362.60009765625, "Close": 4425.83984375, "Volume": 4176690000, "Stock": "^GSPC", "Date": "2023-11-03"}
+
+2023-11-04 23:34:09 Produced message on topic Stock_Topic with value of {"Open": 444.1000061035156, "High": 448.6499938964844, "Low": 439.5, "Close": 445.2699890136719, "Volume": 7099900, "Stock": "NFLX", "Date": "2023-11-03"}
+
+2023-11-04 23:34:10 Produced message on topic Stock_Topic with value of {"Open": 183.71193194142057, "High": 186.2684772778539, "Low": 183.5321667521524, "Close": 185.7591552734375, "Volume": 65433200, "Stock": "AAPL", "Date": "2023-11-03"}
+
+2023-11-04 23:34:11 Produced message on topic Stock_Topic with value of {"Open": 123.13999938964844, "High": 125.45999908447266, "Low": 122.4000015258789, "Close": 125.08999633789062, "Volume": 35246300, "Stock": "GOOGL", "Date": "2023-11-03"}
+
+2023-11-04 23:34:12 Produced message on topic Stock_Topic with value of {"Open": 336.7670051079677, "High": 349.1008770841443, "Low": 336.48759789193105, "Close": 347.36456298828125, "Volume": 38899100, "Stock": "MSFT", "Date": "2023-11-03"}
+
+2023-11-04 23:34:13 Produced message on topic Stock_Topic with value of {"Open": 4440.9501953125, "High": 4448.47021484375, "Low": 4407.43994140625, "Close": 4409.58984375, "Volume": 6848600000, "Stock": "^GSPC", "Date": "2023-11-02"}
+
+2023-11-04 23:34:14 Produced message on topic Stock_Topic with value of {"Open": 350.5777468219982, "High": 350.72742381496835, "Low": 341.2275484062125, "Close": 341.6067199707031, "Volume": 46533600, "Stock": "MSFT", "Date": "2023-11-02"}
+
+2023-11-04 23:34:15 Produced message on topic Stock_Topic with value of {"Open": 446.1499938964844, "High": 447.510009765625, "Low": 430.8999938964844, "Close": 431.9599914550781, "Volume": 8745500, "Stock": "NFLX", "Date": "2023-11-02"}
+
+2023-11-04 23:34:16 Produced message on topic Stock_Topic with value of {"Open": 125.93000030517578, "High": 126.11000061035156, "Low": 123.27999877929688, "Close": 123.52999877929688, "Volume": 45514000, "Stock": "GOOGL", "Date": "2023-11-02"}
+
+2023-11-04 23:34:17 Produced message on topic Stock_Topic with value of {"Open": 186.4781804605333, "High": 186.73783958924915, "Low": 184.0215064339309, "Close": 184.67062377929688, "Volume": 101235600, "Stock": "AAPL", "Date": "2023-11-02"}
+
+2023-11-04 23:34:18 Produced message on topic Stock_Topic with value of {"Open": 338.59313263769, "High": 341.35726945729306, "Low": 335.15040931912563, "Close": 337.3357849121094, "Volume": 26375400, "Stock": "MSFT", "Date": "2023-11-01"}
+
+2023-11-04 23:34:19 Produced message on topic Stock_Topic with value of {"Open": 184.16131632379705, "High": 185.84903970115823, "Low": 184.16131632379705, "Close": 184.760498046875, "Volume": 49799100, "Stock": "AAPL", "Date": "2023-11-01"}
+
+2023-11-04 23:34:20 Produced message on topic Stock_Topic with value of {"Open": 4396.10986328125, "High": 4400.14990234375, "Low": 4367.18994140625, "Close": 4388.7099609375, "Volume": 4055790000, "Stock": "^GSPC", "Date": "2023-11-01"}
+
+2023-11-04 23:34:21 Produced message on topic Stock_Topic with value of {"Open": 122.93000030517578, "High": 124.56999969482422, "Low": 122.13999938964844, "Close": 123.0999984741211, "Volume": 26097500, "Stock": "GOOGL", "Date": "2023-11-01"}
+
+2023-11-04 23:34:22 Produced message on topic Stock_Topic with value of {"Open": 430.1799926757813, "High": 440.0, "Low": 430.0, "Close": 434.7000122070313, "Volume": 4756000, "Stock": "NFLX", "Date": "2023-11-01"}
+
+2023-11-04 23:34:23 Produced message on topic Stock_Topic with value of {"Open": 184.6506488937692, "High": 185.1599708909216, "Low": 182.3437664588452, "Close": 183.71192932128903, "Volume": 49515700, "Stock": "AAPL", "Date": "2023-10-31"}
+
+2023-11-04 23:34:24 Produced message on topic Stock_Topic with value of {"Open": 122.4000015258789, "High": 122.66000366210938, "Low": 120.0999984741211, "Close": 120.5500030517578, "Volume": 30306300, "Stock": "GOOGL", "Date": "2023-10-31"}
+
+2023-11-04 23:34:25 Produced message on topic Stock_Topic with value of {"Open": 335.65931574908313, "High": 337.01645818946224, "Low": 331.3684129299585, "Close": 332.8552551269531, "Volume": 25117800, "Stock": "MSFT", "Date": "2023-10-31"}
+
+2023-11-04 23:34:26 Produced message on topic Stock_Topic with value of {"Open": 432.6499938964844, "High": 434.5499877929688, "Low": 422.5400085449219, "Close": 424.4500122070313, "Volume": 5146400, "Stock": "NFLX", "Date": "2023-10-31"}
+
+2023-11-04 23:34:27 Produced message on topic Stock_Topic with value of {"Open": 4380.009765625, "High": 4386.22021484375, "Low": 4360.14013671875, "Close": 4365.68994140625, "Volume": 3709330000, "Stock": "^GSPC", "Date": "2023-10-31"}
+
+2023-11-04 23:34:28 Produced message on topic Stock_Topic with value of {"Open": 422.9299926757813, "High": 424.7099914550781, "Low": 418.6799926757813, "Close": 422.4800109863281, "Volume": 4869500, "Stock": "NFLX", "Date": "2023-10-30"}
+
+2023-11-04 23:34:29 Produced message on topic Stock_Topic with value of {"Open": 4355.39990234375, "High": 4382.25, "Low": 4351.81982421875, "Close": 4381.89013671875, "Volume": 3511000000, "Stock": "^GSPC", "Date": "2023-10-30"}
+
+2023-11-04 23:34:30 Produced message on topic Stock_Topic with value of {"Open": 183.49221980695384, "High": 186.79775361246232, "Low": 183.422306892294, "Close": 186.7478179931641, "Volume": 51245300, "Stock": "AAPL", "Date": "2023-10-30"}
+
+2023-11-04 23:34:31 Produced message on topic Stock_Topic with value of {"Open": 333.41409281699464, "High": 339.40141649153355, "Low": 332.6357419574287, "Close": 338.9922790527344, "Volume": 23556800, "Stock": "MSFT", "Date": "2023-10-30"}
+
+2023-11-04 23:34:32 Produced message on topic Stock_Topic with value of {"Open": 120.0, "High": 123.23999786376952, "Low": 118.83000183105467, "Close": 123.1500015258789, "Volume": 26952200, "Stock": "GOOGL", "Date": "2023-10-30"}
+
+2023-11-04 23:34:33 Produced message on topic Stock_Topic with value of {"Open": 4354.169921875, "High": 4366.5498046875, "Low": 4341.33984375, "Close": 4348.330078125, "Volume": 6053620000, "Stock": "^GSPC", "Date": "2023-10-29"}
+
+2023-11-04 23:34:34 Produced message on topic Stock_Topic with value of {"Open": 333.65355508938256, "High": 337.2459551593805, "Low": 332.7455045211022, "Close": 334.3121643066406, "Volume": 23084700, "Stock": "MSFT", "Date": "2023-10-29"}
+
+2023-11-04 23:34:35 Produced message on topic Stock_Topic with value of {"Open": 121.37999725341795, "High": 122.79000091552734, "Low": 121.05999755859376, "Close": 122.33999633789062, "Volume": 34885300, "Stock": "GOOGL", "Date": "2023-10-29"}
+
+2023-11-04 23:34:36 Produced message on topic Stock_Topic with value of {"Open": 418.5899963378906, "High": 425.8200073242188, "Low": 417.7300109863281, "Close": 424.0199890136719, "Volume": 8293900, "Stock": "NFLX", "Date": "2023-10-29"}
+
+2023-11-04 23:34:37 Produced message on topic Stock_Topic with value of {"Open": 185.29977218365863, "High": 187.3070560321165, "Low": 184.76049188882976, "Close": 186.42823791503903, "Volume": 53079300, "Stock": "AAPL", "Date": "2023-10-29"}
+
+2023-11-04 23:34:38 Produced message on topic Stock_Topic with value of {"Open": 4344.83984375, "High": 4362.06005859375, "Low": 4328.080078125, "Close": 4328.81982421875, "Volume": 3415030000, "Stock": "^GSPC", "Date": "2023-10-28"}
+
+2023-11-04 23:34:39 Produced message on topic Stock_Topic with value of {"Open": 422.4400024414063, "High": 430.9599914550781, "Low": 414.8999938964844, "Close": 415.9400024414063, "Volume": 4640000, "Stock": "NFLX", "Date": "2023-10-28"}
+
+2023-11-04 23:34:40 Produced message on topic Stock_Topic with value of {"Open": 120.76000213623048, "High": 122.0, "Low": 118.2699966430664, "Close": 118.33999633789062, "Volume": 33969900, "Stock": "GOOGL", "Date": "2023-10-28"}
+
+2023-11-04 23:34:41 Produced message on topic Stock_Topic with value of {"Open": 333.01493964849345, "High": 335.3998743787694, "Low": 327.7959782838698, "Close": 327.90576171875, "Volume": 21520600, "Stock": "MSFT", "Date": "2023-10-28"}
+
+2023-11-04 23:34:42 Produced message on topic Stock_Topic with value of {"Open": 186.57805067120455, "High": 187.79640664906896, "Low": 184.9802022692872, "Close": 185.0201568603516, "Volume": 48088700, "Stock": "AAPL", "Date": "2023-10-28"}
+
+2023-11-04 23:34:43 Produced message on topic Stock_Topic with value of {"Open": 185.6393095002511, "High": 188.13593801859236, "Low": 185.41960497158016, "Close": 187.80638122558597, "Volume": 50730800, "Stock": "AAPL", "Date": "2023-10-27"}
+
+2023-11-04 23:34:44 Produced message on topic Stock_Topic with value of {"Open": 417.3900146484375, "High": 420.8800048828125, "Low": 411.5, "Close": 417.0799865722656, "Volume": 4818100, "Stock": "NFLX", "Date": "2023-10-27"}
+
+2023-11-04 23:34:45 Produced message on topic Stock_Topic with value of {"Open": 4337.35986328125, "High": 4384.419921875, "Low": 4335.0, "Close": 4378.41015625, "Volume": 3573500000, "Stock": "^GSPC", "Date": "2023-10-27"}
+
+2023-11-04 23:34:46 Produced message on topic Stock_Topic with value of {"Open": 117.08000183105467, "High": 119.08000183105467, "Low": 116.0999984741211, "Close": 118.33000183105467, "Volume": 39535900, "Stock": "GOOGL", "Date": "2023-10-27"}
+
+2023-11-04 23:34:47 Produced message on topic Stock_Topic with value of {"Open": 331.15886268738234, "High": 335.4398077044517, "Low": 328.604273651623, "Close": 333.8631591796875, "Volume": 24354100, "Stock": "MSFT", "Date": "2023-10-27"}
+
+2023-11-04 23:34:48 Produced message on topic Stock_Topic with value of {"Open": 4367.47998046875, "High": 4390.35009765625, "Low": 4360.22021484375, "Close": 4376.85986328125, "Volume": 3739330000, "Stock": "^GSPC", "Date": "2023-10-26"}
+
+2023-11-04 23:34:49 Produced message on topic Stock_Topic with value of {"Open": 187.67655430359167, "High": 189.6438988227461, "Low": 187.34701274416585, "Close": 188.99478149414065, "Volume": 51216800, "Stock": "AAPL", "Date": "2023-10-26"}
+
+2023-11-04 23:34:50 Produced message on topic Stock_Topic with value of {"Open": 333.9529536205381, "High": 337.26594662786533, "Low": 333.10474336009975, "Close": 335.14044189453125, "Volume": 20259500, "Stock": "MSFT", "Date": "2023-10-26"}
+
+2023-11-04 23:34:51 Produced message on topic Stock_Topic with value of {"Open": 423.1000061035156, "High": 437.2900085449219, "Low": 422.8900146484375, "Close": 429.8399963378906, "Volume": 8811300, "Stock": "NFLX", "Date": "2023-10-26"}
+
+2023-11-04 23:34:53 Produced message on topic Stock_Topic with value of {"Open": 117.08999633789062, "High": 120.38999938964844, "Low": 116.8499984741211, "Close": 120.18000030517578, "Volume": 27091400, "Stock": "GOOGL", "Date": "2023-10-26"}
+
+2023-11-04 23:34:54 Produced message on topic Stock_Topic with value of {"Open": 188.8250133272047, "High": 189.81368372402292, "Low": 188.685202737189, "Close": 189.33432006835935, "Volume": 46347300, "Stock": "AAPL", "Date": "2023-10-25"}
+
+2023-11-04 23:34:55 Produced message on topic Stock_Topic with value of {"Open": 334.0028240491651, "High": 335.3998600714379, "Low": 331.9172434064326, "Close": 334.34210205078125, "Volume": 16997000, "Stock": "MSFT", "Date": "2023-10-25"}
+
+2023-11-04 23:34:56 Produced message on topic Stock_Topic with value of {"Open": 4374.93994140625, "High": 4398.39013671875, "Low": 4371.97021484375, "Close": 4396.43994140625, "Volume": 3696660000, "Stock": "^GSPC", "Date": "2023-10-25"}
+
+2023-11-04 23:34:57 Produced message on topic Stock_Topic with value of {"Open": 119.23999786376952, "High": 120.05999755859376, "Low": 118.3000030517578, "Close": 119.0999984741211, "Volume": 24090900, "Stock": "GOOGL", "Date": "2023-10-25"}
+
+2023-11-04 23:34:58 Produced message on topic Stock_Topic with value of {"Open": 434.3299865722656, "High": 437.8500061035156, "Low": 426.1499938964844, "Close": 428.239990234375, "Volume": 4932300, "Stock": "NFLX", "Date": "2023-10-25"}
+
+2023-11-04 23:34:59 Produced message on topic Stock_Topic with value of {"Open": 337.0364122220863, "High": 342.0059015948727, "Low": 336.48758642635534, "Close": 339.8205261230469, "Volume": 26823800, "Stock": "MSFT", "Date": "2023-10-24"}
+
+2023-11-04 23:35:00 Produced message on topic Stock_Topic with value of {"Open": 4422.43994140625, "High": 4458.47998046875, "Low": 4422.43994140625, "Close": 4450.3798828125, "Volume": 3923450000, "Stock": "^GSPC", "Date": "2023-10-24"}
+
+2023-11-04 23:35:01 Produced message on topic Stock_Topic with value of {"Open": 120.16999816894533, "High": 121.08000183105467, "Low": 119.69000244140624, "Close": 119.6999969482422, "Volume": 29519700, "Stock": "GOOGL", "Date": "2023-10-24"}
+
+2023-11-04 23:35:02 Produced message on topic Stock_Topic with value of {"Open": 431.1000061035156, "High": 444.1199951171875, "Low": 431.1000061035156, "Close": 440.489990234375, "Volume": 7342000, "Stock": "NFLX", "Date": "2023-10-24"}
+
+2023-11-04 23:35:03 Produced message on topic Stock_Topic with value of {"Open": 191.3715791022869, "High": 194.21772654519864, "Low": 191.0020677098608, "Close": 193.7084197998047, "Volume": 85069600, "Stock": "AAPL", "Date": "2023-10-24"}
+
+2023-11-04 23:35:04 Produced message on topic Stock_Topic with value of {"Open": 439.760009765625, "High": 441.5499877929688, "Low": 431.6199951171875, "Close": 441.4400024414063, "Volume": 3733200, "Stock": "NFLX", "Date": "2023-10-23"}
+
+2023-11-04 23:35:05 Produced message on topic Stock_Topic with value of {"Open": 193.5186819964897, "High": 193.6185532394759, "Low": 191.5014017462244, "Close": 192.20046997070312, "Volume": 31458200, "Stock": "AAPL", "Date": "2023-10-23"}
+
+2023-11-04 23:35:06 Produced message on topic Stock_Topic with value of {"Open": 338.473386331844, "High": 340.17976504062915, "Low": 335.8589265508823, "Close": 337.2759094238281, "Volume": 12508700, "Stock": "MSFT", "Date": "2023-10-23"}
+
+2023-11-04 23:35:07 Produced message on topic Stock_Topic with value of {"Open": 4450.47998046875, "High": 4456.4599609375, "Low": 4442.2900390625, "Close": 4455.58984375, "Volume": 2034280000, "Stock": "^GSPC", "Date": "2023-10-23"}
+
+2023-11-04 23:35:08 Produced message on topic Stock_Topic with value of {"Open": 119.23999786376952, "High": 120.19000244140624, "Low": 118.81999969482422, "Close": 119.9000015258789, "Volume": 14467900, "Stock": "GOOGL", "Date": "2023-10-23"}
+
+2023-11-04 23:35:09 Produced message on topic Stock_Topic with value of {"Open": 191.3116575316673, "High": 192.71974443580936, "Low": 190.36292650356395, "Close": 191.0719757080078, "Volume": 46920300, "Stock": "AAPL", "Date": "2023-10-22"}
+
+2023-11-04 23:35:10 Produced message on topic Stock_Topic with value of {"Open": 334.38204475427784, "High": 340.9281828700029, "Low": 334.0228199512321, "Close": 337.4355773925781, "Volume": 18172400, "Stock": "MSFT", "Date": "2023-10-22"}
+
+2023-11-04 23:35:11 Produced message on topic Stock_Topic with value of {"Open": 4442.0400390625, "High": 4454.06005859375, "Low": 4436.60986328125, "Close": 4446.81982421875, "Volume": 3482620000, "Stock": "^GSPC", "Date": "2023-10-22"}
+
+2023-11-04 23:35:12 Produced message on topic Stock_Topic with value of {"Open": 444.9100036621094, "High": 450.9700012207031, "Low": 439.6199951171875, "Close": 445.8999938964844, "Volume": 6869500, "Stock": "NFLX", "Date": "2023-10-22"}
+
+2023-11-04 23:35:13 Produced message on topic Stock_Topic with value of {"Open": 119.23999786376952, "High": 122.61000061035156, "Low": 119.2300033569336, "Close": 121.75, "Volume": 27584800, "Stock": "GOOGL", "Date": "2023-10-22"}
+
+2023-11-04 23:35:14 Produced message on topic Stock_Topic with value of {"Open": 440.0, "High": 442.7999877929688, "Low": 430.7200012207031, "Close": 438.8399963378906, "Volume": 4938800, "Stock": "NFLX", "Date": "2023-10-21"}
+
+2023-11-04 23:35:15 Produced message on topic Stock_Topic with value of {"Open": 4422.6201171875, "High": 4422.6201171875, "Low": 4385.0498046875, "Close": 4411.58984375, "Volume": 3682020000, "Stock": "^GSPC", "Date": "2023-10-21"}
+
+2023-11-04 23:35:16 Produced message on topic Stock_Topic with value of {"Open": 119.8000030517578, "High": 120.3000030517578, "Low": 118.4000015258789, "Close": 120.11000061035156, "Volume": 24745200, "Stock": "GOOGL", "Date": "2023-10-21"}
+
+2023-11-04 23:35:17 Produced message on topic Stock_Topic with value of {"Open": 336.587366997466, "High": 342.265348050752, "Low": 334.7911820766566, "Close": 340.5489807128906, "Volume": 28161200, "Stock": "MSFT", "Date": "2023-10-21"}
+
+2023-11-04 23:35:18 Produced message on topic Stock_Topic with value of {"Open": 189.58398600748745, "High": 191.7610540739458, "Low": 188.9448496944212, "Close": 191.55133056640625, "Volume": 45094300, "Stock": "AAPL", "Date": "2023-10-21"}
+
+2023-11-04 23:35:19 Produced message on topic Stock_Topic with value of {"Open": 4404.5400390625, "High": 4440.39013671875, "Low": 4397.39990234375, "Close": 4398.9501953125, "Volume": 3630480000, "Stock": "^GSPC", "Date": "2023-10-20"}
+
+2023-11-04 23:35:20 Produced message on topic Stock_Topic with value of {"Open": 438.6000061035156, "High": 442.3299865722656, "Low": 435.8399963378906, "Close": 438.1000061035156, "Volume": 4160100, "Stock": "NFLX", "Date": "2023-10-20"}
+
+2023-11-04 23:35:21 Produced message on topic Stock_Topic with value of {"Open": 120.0999984741211, "High": 121.0500030517578, "Low": 119.4000015258789, "Close": 119.4800033569336, "Volume": 21692600, "Stock": "GOOGL", "Date": "2023-10-20"}
+
+2023-11-04 23:35:22 Produced message on topic Stock_Topic with value of {"Open": 338.6031071460752, "High": 341.06788985835874, "Low": 336.288001429861, "Close": 336.5075378417969, "Volume": 21185300, "Stock": "MSFT", "Date": "2023-10-20"}
+
+2023-11-04 23:35:23 Produced message on topic Stock_Topic with value of {"Open": 191.15187809400885, "High": 192.41017343783523, "Low": 189.9834577236961, "Close": 190.4228515625, "Volume": 46778000, "Stock": "AAPL", "Date": "2023-10-20"}
+
+2023-11-04 23:35:24 Produced message on topic Stock_Topic with value of {"Open": 118.3000030517578, "High": 118.30999755859376, "Low": 116.13999938964844, "Close": 116.4499969482422, "Volume": 35315200, "Stock": "GOOGL", "Date": "2023-10-19"}
+
+2023-11-04 23:35:25 Produced message on topic Stock_Topic with value of {"Open": 189.00476920703125, "High": 189.7337957419261, "Low": 186.78776175412676, "Close": 188.35565185546875, "Volume": 59922200, "Stock": "AAPL", "Date": "2023-10-19"}
+
+2023-11-04 23:35:26 Produced message on topic Stock_Topic with value of {"Open": 438.5199890136719, "High": 444.4100036621094, "Low": 436.8200073242188, "Close": 441.7099914550781, "Volume": 4251700, "Stock": "NFLX", "Date": "2023-10-19"}
+
+2023-11-04 23:35:27 Produced message on topic Stock_Topic with value of {"Open": 333.8930733680739, "High": 334.521747195695, "Low": 326.8978741382788, "Close": 331.12890625, "Volume": 32791400, "Stock": "MSFT", "Date": "2023-10-19"}
+
+2023-11-04 23:35:28 Produced message on topic Stock_Topic with value of {"Open": 4394.22998046875, "High": 4412.60009765625, "Low": 4389.919921875, "Close": 4409.52978515625, "Volume": 3429600000, "Stock": "^GSPC", "Date": "2023-10-19"}
+
+2023-11-04 23:35:29 Produced message on topic Stock_Topic with value of {"Open": 330.3605534358315, "High": 332.15673832028784, "Low": 326.3091336016736, "Close": 331.767578125, "Volume": 26698200, "Stock": "MSFT", "Date": "2023-10-18"}
+
+2023-11-04 23:35:30 Produced message on topic Stock_Topic with value of {"Open": 4415.5498046875, "High": 4443.64013671875, "Low": 4408.4599609375, "Close": 4439.259765625, "Volume": 3624220000, "Stock": "^GSPC", "Date": "2023-10-18"}
+
+2023-11-04 23:35:31 Produced message on topic Stock_Topic with value of {"Open": 438.6499938964844, "High": 440.7999877929688, "Low": 431.0400085449219, "Close": 440.2099914550781, "Volume": 4574600, "Stock": "NFLX", "Date": "2023-10-18"}
+
+2023-11-04 23:35:32 Produced message on topic Stock_Topic with value of {"Open": 116.29000091552734, "High": 117.70999908447266, "Low": 115.3499984741211, "Close": 117.13999938964844, "Volume": 23078800, "Stock": "GOOGL", "Date": "2023-10-18"}
+
+2023-11-04 23:35:33 Produced message on topic Stock_Topic with value of {"Open": 188.90491565505891, "High": 189.04472625128065, "Low": 186.34837033088385, "Close": 187.8263702392578, "Volume": 46638100, "Stock": "AAPL", "Date": "2023-10-18"}
+
+2023-11-04 23:35:34 Produced message on topic Stock_Topic with value of {"Open": 444.5499877929688, "High": 445.4100036621094, "Low": 437.75, "Close": 444.0499877929688, "Volume": 5731700, "Stock": "NFLX", "Date": "2023-10-17"}
+
+2023-11-04 23:35:35 Produced message on topic Stock_Topic with value of {"Open": 189.42419365364324, "High": 191.441473784721, "Low": 188.21583397125048, "Close": 189.5140838623047, "Volume": 60750200, "Stock": "AAPL", "Date": "2023-10-17"}
+
+2023-11-04 23:35:36 Produced message on topic Stock_Topic with value of {"Open": 118.8000030517578, "High": 120.33000183105467, "Low": 118.41000366210938, "Close": 118.93000030517578, "Volume": 30404400, "Stock": "GOOGL", "Date": "2023-10-17"}
+
+2023-11-04 23:35:37 Produced message on topic Stock_Topic with value of {"Open": 4467.68994140625, "High": 4488.33984375, "Low": 4463.22998046875, "Close": 4472.16015625, "Volume": 3920290000, "Stock": "^GSPC", "Date": "2023-10-17"}
+
+2023-11-04 23:35:38 Produced message on topic Stock_Topic with value of {"Open": 335.88884092916754, "High": 340.92815915771524, "Low": 334.9608131327429, "Close": 336.4875793457031, "Volume": 29995300, "Stock": "MSFT", "Date": "2023-10-17"}
+
+2023-11-04 23:35:39 Produced message on topic Stock_Topic with value of {"Open": 447.0, "High": 451.6700134277344, "Low": 441.1799926757813, "Close": 450.3800048828125, "Volume": 6157500, "Stock": "NFLX", "Date": "2023-10-16"}
+
+2023-11-04 23:35:40 Produced message on topic Stock_Topic with value of {"Open": 120.93000030517578, "High": 124.83000183105467, "Low": 120.4499969482422, "Close": 124.54000091552734, "Volume": 44297900, "Stock": "GOOGL", "Date": "2023-10-16"}
+
+2023-11-04 23:35:41 Produced message on topic Stock_Topic with value of {"Open": 338.8425787135145, "High": 343.01373994407413, "Low": 338.303711093052, "Close": 341.93603515625, "Volume": 20567200, "Stock": "MSFT", "Date": "2023-10-16"}
+
+2023-11-04 23:35:42 Produced message on topic Stock_Topic with value of {"Open": 4491.5, "High": 4517.3798828125, "Low": 4489.35986328125, "Close": 4510.0400390625, "Volume": 3839530000, "Stock": "^GSPC", "Date": "2023-10-16"}
+
+2023-11-04 23:35:43 Produced message on topic Stock_Topic with value of {"Open": 190.24309592624596, "High": 190.9321678456674, "Low": 189.5240656832158, "Close": 190.2830352783203, "Volume": 41342300, "Stock": "AAPL", "Date": "2023-10-16"}
+
+2023-11-04 23:35:44 Produced message on topic Stock_Topic with value of {"Open": 189.97345970082588, "High": 190.92217552386197, "Low": 189.3742779780613, "Close": 190.43284606933597, "Volume": 41573900, "Stock": "AAPL", "Date": "2023-10-15"}
+
+2023-11-04 23:35:45 Produced message on topic Stock_Topic with value of {"Open": 124.8000030517578, "High": 126.77999877929688, "Low": 123.48999786376952, "Close": 125.41999816894533, "Volume": 33266800, "Stock": "GOOGL", "Date": "2023-10-15"}
+
+2023-11-04 23:35:46 Produced message on topic Stock_Topic with value of {"Open": 346.85563076281653, "High": 350.6875142057773, "Low": 343.5825617519686, "Close": 344.5105895996094, "Volume": 28302200, "Stock": "MSFT", "Date": "2023-10-15"}
+
+2023-11-04 23:35:47 Produced message on topic Stock_Topic with value of {"Open": 452.7900085449219, "High": 456.4800109863281, "Low": 439.7000122070313, "Close": 441.9100036621094, "Volume": 7184900, "Stock": "NFLX", "Date": "2023-10-15"}
+
+2023-11-04 23:35:48 Produced message on topic Stock_Topic with value of {"Open": 4514.60986328125, "High": 4527.759765625, "Low": 4499.56005859375, "Close": 4505.419921875, "Volume": 3647450000, "Stock": "^GSPC", "Date": "2023-10-15"}
+
+2023-11-04 23:35:49 Produced message on topic Stock_Topic with value of {"Open": 191.64120051550955, "High": 194.0579503503472, "Low": 191.55132554529635, "Close": 193.7283935546875, "Volume": 50520200, "Stock": "AAPL", "Date": "2023-10-14"}
+
+2023-11-04 23:35:50 Produced message on topic Stock_Topic with value of {"Open": 125.94000244140624, "High": 127.0999984741211, "Low": 124.1999969482422, "Close": 124.6500015258789, "Volume": 25716200, "Stock": "GOOGL", "Date": "2023-10-14"}
+
+2023-11-04 23:35:51 Produced message on topic Stock_Topic with value of {"Open": 4508.85986328125, "High": 4532.85009765625, "Low": 4504.89990234375, "Close": 4522.7900390625, "Volume": 3538240000, "Stock": "^GSPC", "Date": "2023-10-14"}
+
+2023-11-04 23:35:52 Produced message on topic Stock_Topic with value of {"Open": 344.9496601191329, "High": 346.2568899911771, "Low": 341.4770319504485, "Close": 344.99957275390625, "Volume": 20363900, "Stock": "MSFT", "Date": "2023-10-14"}
+
+2023-11-04 23:35:53 Produced message on topic Stock_Topic with value of {"Open": 445.5700073242188, "High": 456.6799926757813, "Low": 445.1099853515625, "Close": 450.0499877929688, "Volume": 6891700, "Stock": "NFLX", "Date": "2023-10-14"}
+
+2023-11-04 23:35:54 Produced message on topic Stock_Topic with value of {"Open": 345.0993256028976, "High": 366.0050751467076, "Low": 341.44708515833304, "Close": 358.73046875, "Volume": 64872700, "Stock": "MSFT", "Date": "2023-10-13"}
+
+2023-11-04 23:35:55 Produced message on topic Stock_Topic with value of {"Open": 193.08925756474932, "High": 194.06793168667224, "Low": 192.16050382310547, "Close": 193.4687347412109, "Volume": 48353800, "Stock": "AAPL", "Date": "2023-10-13"}
+
+2023-11-04 23:35:56 Produced message on topic Stock_Topic with value of {"Open": 124.5999984741211, "High": 124.68000030517578, "Low": 122.95999908447266, "Close": 123.76000213623048, "Volume": 26226400, "Stock": "GOOGL", "Date": "2023-10-13"}
+
+2023-11-04 23:35:57 Produced message on topic Stock_Topic with value of {"Open": 4521.77978515625, "High": 4562.2998046875, "Low": 4514.58984375, "Close": 4554.97998046875, "Volume": 4090010000, "Stock": "^GSPC", "Date": "2023-10-13"}
+
+2023-11-04 23:35:58 Produced message on topic Stock_Topic with value of {"Open": 451.0, "High": 478.1499938964844, "Low": 448.7799987792969, "Close": 474.7999877929688, "Volume": 13196900, "Stock": "NFLX", "Date": "2023-10-13"}
+
+2023-11-04 23:35:59 Produced message on topic Stock_Topic with value of {"Open": 124.5999984741211, "High": 125.18000030517578, "Low": 121.8000030517578, "Close": 122.02999877929688, "Volume": 37224000, "Stock": "GOOGL", "Date": "2023-10-12"}
+
+2023-11-04 23:36:00 Produced message on topic Stock_Topic with value of {"Open": 360.985725051634, "High": 361.694216496532, "Low": 351.69539687217883, "Close": 354.3298034667969, "Volume": 39732900, "Stock": "MSFT", "Date": "2023-10-12"}
+
+2023-11-04 23:36:01 Produced message on topic Stock_Topic with value of {"Open": 4563.8701171875, "High": 4578.43017578125, "Low": 4557.47998046875, "Close": 4565.72021484375, "Volume": 4115670000, "Stock": "^GSPC", "Date": "2023-10-12"}
+
+2023-11-04 23:36:02 Produced message on topic Stock_Topic with value of {"Open": 192.8395959568793, "High": 197.9626673970187, "Low": 192.39019062577304, "Close": 194.8368988037109, "Volume": 80507300, "Stock": "AAPL", "Date": "2023-10-12"}
+
+2023-11-04 23:36:03 Produced message on topic Stock_Topic with value of {"Open": 476.8599853515625, "High": 485.0, "Low": 470.0, "Close": 477.5899963378906, "Volume": 20996500, "Stock": "NFLX", "Date": "2023-10-12"}
+
+2023-11-04 23:36:04 Produced message on topic Stock_Topic with value of {"Open": 4554.3798828125, "High": 4564.740234375, "Low": 4527.56005859375, "Close": 4534.8701171875, "Volume": 3761770000, "Stock": "^GSPC", "Date": "2023-10-11"}
+
+2023-11-04 23:36:05 Produced message on topic Stock_Topic with value of {"Open": 194.82690085187127, "High": 196.2050446804925, "Low": 192.24039734476693, "Close": 192.8695526123047, "Volume": 59581200, "Stock": "AAPL", "Date": "2023-10-11"}
+
+2023-11-04 23:36:07 Produced message on topic Stock_Topic with value of {"Open": 121.41999816894533, "High": 124.08999633789062, "Low": 118.22000122070312, "Close": 119.1999969482422, "Volume": 37906800, "Stock": "GOOGL", "Date": "2023-10-11"}
+
+2023-11-04 23:36:08 Produced message on topic Stock_Topic with value of {"Open": 447.0, "High": 448.5, "Low": 432.0, "Close": 437.4200134277344, "Volume": 23989700, "Stock": "NFLX", "Date": "2023-10-11"}
+
+2023-11-04 23:36:09 Produced message on topic Stock_Topic with value of {"Open": 352.82300276124084, "High": 357.21370057646925, "Low": 344.6403151190998, "Close": 346.1371459960937, "Volume": 33778400, "Stock": "MSFT", "Date": "2023-10-11"}
+
+2023-11-04 23:36:10 Produced message on topic Stock_Topic with value of {"Open": 4550.16015625, "High": 4555.0, "Low": 4535.7900390625, "Close": 4536.33984375, "Volume": 3570190000, "Stock": "^GSPC", "Date": "2023-10-10"}
+
+2023-11-04 23:36:11 Produced message on topic Stock_Topic with value of {"Open": 437.3699951171875, "High": 438.239990234375, "Low": 423.1900024414063, "Close": 427.5, "Volume": 17303700, "Stock": "NFLX", "Date": "2023-10-10"}
+
+2023-11-04 23:36:12 Produced message on topic Stock_Topic with value of {"Open": 193.83825845755916, "High": 194.70708036935372, "Low": 190.97211834658083, "Close": 191.68116760253903, "Volume": 71917800, "Stock": "AAPL", "Date": "2023-10-10"}
+
+2023-11-04 23:36:13 Produced message on topic Stock_Topic with value of {"Open": 120.62000274658205, "High": 120.98999786376952, "Low": 118.7300033569336, "Close": 120.0199966430664, "Volume": 72937900, "Stock": "GOOGL", "Date": "2023-10-10"}
+
+2023-11-04 23:36:14 Produced message on topic Stock_Topic with value of {"Open": 348.41233964034046, "High": 349.55990392804034, "Low": 339.1120228307721, "Close": 343.043701171875, "Volume": 69368900, "Stock": "MSFT", "Date": "2023-10-10"}
+
+2023-11-04 23:36:15 Produced message on topic Stock_Topic with value of {"Open": 345.1193166591419, "High": 346.1870633413384, "Low": 341.5867872144979, "Close": 344.380859375, "Volume": 26678100, "Stock": "MSFT", "Date": "2023-10-09"}
+
+2023-11-04 23:36:16 Produced message on topic Stock_Topic with value of {"Open": 193.14918014091884, "High": 194.64715731234548, "Low": 191.99074080451143, "Close": 192.4900665283203, "Volume": 45377800, "Stock": "AAPL", "Date": "2023-10-09"}
+
+2023-11-04 23:36:17 Produced message on topic Stock_Topic with value of {"Open": 121.66000366210938, "High": 123.0, "Low": 120.9800033569336, "Close": 121.52999877929688, "Volume": 29686100, "Stock": "GOOGL", "Date": "2023-10-09"}
+
+2023-11-04 23:36:18 Produced message on topic Stock_Topic with value of {"Open": 425.0, "High": 428.6400146484375, "Low": 419.1900024414063, "Close": 428.3699951171875, "Volume": 8264400, "Stock": "NFLX", "Date": "2023-10-09"}
+
+2023-11-04 23:36:19 Produced message on topic Stock_Topic with value of {"Open": 4543.39013671875, "High": 4563.41015625, "Low": 4541.2900390625, "Close": 4554.64013671875, "Volume": 3856250000, "Stock": "^GSPC", "Date": "2023-10-09"}
+
+2023-11-04 23:36:20 Produced message on topic Stock_Topic with value of {"Open": 346.3766152674607, "High": 351.14654537204683, "Low": 344.3409472828141, "Close": 350.23846435546875, "Volume": 41637700, "Stock": "MSFT", "Date": "2023-10-08"}
+
+2023-11-04 23:36:21 Produced message on topic Stock_Topic with value of {"Open": 4555.18994140625, "High": 4580.6201171875, "Low": 4552.419921875, "Close": 4567.4599609375, "Volume": 3812470000, "Stock": "^GSPC", "Date": "2023-10-08"}
+
+2023-11-04 23:36:22 Produced message on topic Stock_Topic with value of {"Open": 121.36000061035156, "High": 123.1500015258789, "Low": 121.0199966430664, "Close": 122.20999908447266, "Volume": 52509600, "Stock": "GOOGL", "Date": "2023-10-08"}
+
+2023-11-04 23:36:23 Produced message on topic Stock_Topic with value of {"Open": 193.06928450628936, "High": 194.1777882129691, "Low": 192.65983375917983, "Close": 193.35888671875, "Volume": 37283200, "Stock": "AAPL", "Date": "2023-10-08"}
+
+2023-11-04 23:36:24 Produced message on topic Stock_Topic with value of {"Open": 427.1799926757813, "High": 430.8800048828125, "Low": 426.1300048828125, "Close": 427.7000122070313, "Volume": 4859800, "Stock": "NFLX", "Date": "2023-10-08"}
+
+2023-11-04 23:36:25 Produced message on topic Stock_Topic with value of {"Open": 424.2000122070313, "High": 425.260009765625, "Low": 415.5899963378906, "Close": 422.6700134277344, "Volume": 6009200, "Stock": "NFLX", "Date": "2023-10-07"}
+
+2023-11-04 23:36:26 Produced message on topic Stock_Topic with value of {"Open": 340.71862557906644, "High": 343.94181236443984, "Low": 332.4062077205621, "Close": 337.0563659667969, "Volume": 58383700, "Stock": "MSFT", "Date": "2023-10-07"}
+
+2023-11-04 23:36:27 Produced message on topic Stock_Topic with value of {"Open": 130.07000732421875, "High": 130.97999572753906, "Low": 128.32000732421875, "Close": 129.27000427246094, "Volume": 61682100, "Stock": "GOOGL", "Date": "2023-10-07"}
+
+2023-11-04 23:36:28 Produced message on topic Stock_Topic with value of {"Open": 193.40881890786576, "High": 195.3761634266119, "Low": 193.0593000533859, "Close": 194.2377014160156, "Volume": 47471900, "Stock": "AAPL", "Date": "2023-10-07"}
+
+2023-11-04 23:36:29 Produced message on topic Stock_Topic with value of {"Open": 4558.9599609375, "High": 4582.47021484375, "Low": 4547.580078125, "Close": 4566.75, "Volume": 3990290000, "Stock": "^GSPC", "Date": "2023-10-07"}
+
+2023-11-04 23:36:30 Produced message on topic Stock_Topic with value of {"Open": 131.6699981689453, "High": 133.24000549316406, "Low": 128.7899932861328, "Close": 129.39999389648438, "Volume": 44952100, "Stock": "GOOGL", "Date": "2023-10-06"}
+
+2023-11-04 23:36:31 Produced message on topic Stock_Topic with value of {"Open": 4598.259765625, "High": 4607.06982421875, "Low": 4528.56005859375, "Close": 4537.41015625, "Volume": 4553210000, "Stock": "^GSPC", "Date": "2023-10-06"}
+
+2023-11-04 23:36:32 Produced message on topic Stock_Topic with value of {"Open": 426.8999938964844, "High": 427.5199890136719, "Low": 411.8800048828125, "Close": 413.1700134277344, "Volume": 6594500, "Stock": "NFLX", "Date": "2023-10-06"}
+
+2023-11-04 23:36:33 Produced message on topic Stock_Topic with value of {"Open": 195.7556538787222, "High": 196.93405522952816, "Low": 192.29033226300317, "Close": 192.9594268798828, "Volume": 47460200, "Stock": "AAPL", "Date": "2023-10-06"}
+
+2023-11-04 23:36:34 Produced message on topic Stock_Topic with value of {"Open": 339.7606600042334, "High": 340.6088397996611, "Low": 328.35478565410773, "Close": 330.0212707519531, "Volume": 39635300, "Stock": "MSFT", "Date": "2023-10-06"}
+
+2023-11-04 23:36:35 Produced message on topic Stock_Topic with value of {"Open": 415.55999755859375, "High": 427.4700012207031, "Low": 413.760009765625, "Close": 425.7799987792969, "Volume": 6424200, "Stock": "NFLX", "Date": "2023-10-05"}
+
+2023-11-04 23:36:36 Produced message on topic Stock_Topic with value of {"Open": 130.77999877929688, "High": 133.74000549316406, "Low": 130.57000732421875, "Close": 132.5800018310547, "Volume": 36591200, "Stock": "GOOGL", "Date": "2023-10-05"}
+
+2023-11-04 23:36:37 Produced message on topic Stock_Topic with value of {"Open": 194.40747861366464, "High": 196.36484218736788, "Low": 193.87819455695032, "Close": 195.56591796875, "Volume": 48291400, "Stock": "AAPL", "Date": "2023-10-05"}
+
+2023-11-04 23:36:38 Produced message on topic Stock_Topic with value of {"Open": 332.96503871749144, "High": 339.29163997371046, "Low": 332.46609511255525, "Close": 337.65509033203125, "Volume": 28484900, "Stock": "MSFT", "Date": "2023-10-05"}
+
+2023-11-04 23:36:39 Produced message on topic Stock_Topic with value of {"Open": 4565.75, "High": 4590.16015625, "Low": 4564.009765625, "Close": 4582.22998046875, "Volume": 3981010000, "Stock": "^GSPC", "Date": "2023-10-05"}
+
+2023-11-04 23:36:40 Produced message on topic Stock_Topic with value of {"Open": 132.72999572753906, "High": 133.52999877929688, "Low": 131.77999877929688, "Close": 132.72000122070312, "Volume": 28055500, "Stock": "GOOGL", "Date": "2023-10-04"}
+
+2023-11-04 23:36:41 Produced message on topic Stock_Topic with value of {"Open": 336.2081838755352, "High": 336.9865347082582, "Low": 332.65567726763555, "Close": 335.2102966308594, "Volume": 25446000, "Stock": "MSFT", "Date": "2023-10-04"}
+
+2023-11-04 23:36:42 Produced message on topic Stock_Topic with value of {"Open": 4584.81982421875, "High": 4594.22021484375, "Low": 4573.14013671875, "Close": 4588.9599609375, "Volume": 4503600000, "Stock": "^GSPC", "Date": "2023-10-04"}
+
+2023-11-04 23:36:43 Produced message on topic Stock_Topic with value of {"Open": 426.510009765625, "High": 439.1300048828125, "Low": 426.2999877929688, "Close": 438.9700012207031, "Volume": 6587600, "Stock": "NFLX", "Date": "2023-10-04"}
+
+2023-11-04 23:36:44 Produced message on topic Stock_Topic with value of {"Open": 195.7956003974655, "High": 196.2250284438456, "Low": 194.9966761916651, "Close": 196.18507385253903, "Volume": 38824100, "Stock": "AAPL", "Date": "2023-10-04"}
+
+2023-11-04 23:36:45 Produced message on topic Stock_Topic with value of {"Open": 4578.830078125, "High": 4584.6201171875, "Low": 4567.52978515625, "Close": 4576.72998046875, "Volume": 4042370000, "Stock": "^GSPC", "Date": "2023-10-03"}
+
+2023-11-04 23:36:46 Produced message on topic Stock_Topic with value of {"Open": 334.48183028259035, "High": 337.82475866589624, "Low": 332.9949880227767, "Close": 335.62939453125, "Volume": 18311900, "Stock": "MSFT", "Date": "2023-10-03"}
+
+2023-11-04 23:36:47 Produced message on topic Stock_Topic with value of {"Open": 437.3699951171875, "High": 445.25, "Low": 431.3999938964844, "Close": 438.6199951171875, "Volume": 5711500, "Stock": "NFLX", "Date": "2023-10-03"}
+
+2023-11-04 23:36:48 Produced message on topic Stock_Topic with value of {"Open": 195.9753619416296, "High": 196.4646913894564, "Low": 195.01664986483507, "Close": 195.34620666503903, "Volume": 35175100, "Stock": "AAPL", "Date": "2023-10-03"}
+
+2023-11-04 23:36:49 Produced message on topic Stock_Topic with value of {"Open": 130.77999877929688, "High": 132.6300048828125, "Low": 130.67999267578125, "Close": 131.5500030517578, "Volume": 23166800, "Stock": "GOOGL", "Date": "2023-10-03"}
+
+2023-11-04 23:36:50 Produced message on topic Stock_Topic with value of {"Open": 4550.93017578125, "High": 4550.93017578125, "Low": 4505.75, "Close": 4513.39013671875, "Volume": 4270710000, "Stock": "^GSPC", "Date": "2023-10-02"}
+
+2023-11-04 23:36:51 Produced message on topic Stock_Topic with value of {"Open": 435.2300109863281, "High": 435.55999755859375, "Low": 426.55999755859375, "Close": 429.7000122070313, "Volume": 4912200, "Stock": "NFLX", "Date": "2023-10-02"}
+
+2023-11-04 23:36:52 Produced message on topic Stock_Topic with value of {"Open": 194.7769712642308, "High": 194.9167818571001, "Low": 191.5912859525503, "Close": 192.3202972412109, "Volume": 50389300, "Stock": "AAPL", "Date": "2023-10-02"}
+
+2023-11-04 23:36:53 Produced message on topic Stock_Topic with value of {"Open": 129.4499969482422, "High": 130.08999633789062, "Low": 127.55999755859376, "Close": 128.3800048828125, "Volume": 26273300, "Stock": "GOOGL", "Date": "2023-10-02"}
+
+2023-11-04 23:36:54 Produced message on topic Stock_Topic with value of {"Open": 332.9251286769528, "High": 332.9251286769528, "Low": 325.67046886667725, "Close": 326.8080749511719, "Volume": 27761300, "Stock": "MSFT", "Date": "2023-10-02"}
+
+2023-11-04 23:36:55 Produced message on topic Stock_Topic with value of {"Open": 127.97000122070312, "High": 129.38999938964844, "Low": 127.41999816894533, "Close": 128.4499969482422, "Volume": 20089500, "Stock": "GOOGL", "Date": "2023-10-01"}
+
+2023-11-04 23:36:56 Produced message on topic Stock_Topic with value of {"Open": 325.3112394017374, "High": 329.1830467554568, "Low": 325.26135722110666, "Close": 325.9698486328125, "Volume": 18253700, "Stock": "MSFT", "Date": "2023-10-01"}
+
+2023-11-04 23:36:57 Produced message on topic Stock_Topic with value of {"Open": 191.3116706612488, "High": 192.1105796518531, "Low": 190.4328524857293, "Close": 190.9122009277344, "Volume": 61235200, "Stock": "AAPL", "Date": "2023-10-01"}
+
+2023-11-04 23:36:58 Produced message on topic Stock_Topic with value of {"Open": 4494.27001953125, "High": 4519.490234375, "Low": 4485.5400390625, "Close": 4501.89013671875, "Volume": 4149120000, "Stock": "^GSPC", "Date": "2023-10-01"}
+
+2023-11-04 23:36:59 Produced message on topic Stock_Topic with value of {"Open": 427.7999877929688, "High": 441.9299926757813, "Low": 427.1900024414063, "Close": 431.0, "Volume": 6243900, "Stock": "NFLX", "Date": "2023-10-01"}
+
+2023-11-04 23:37:00 Produced message on topic Stock_Topic with value of {"Open": 129.27999877929688, "High": 131.50999450683594, "Low": 127.91000366210938, "Close": 128.11000061035156, "Volume": 26130000, "Stock": "GOOGL", "Date": "2023-09-30"}
+
+2023-11-04 23:37:01 Produced message on topic Stock_Topic with value of {"Open": 433.05999755859375, "High": 436.5, "Low": 426.2699890136719, "Close": 431.6000061035156, "Volume": 5439700, "Stock": "NFLX", "Date": "2023-09-30"}
+
+2023-11-04 23:37:02 Produced message on topic Stock_Topic with value of {"Open": 185.2698215343424, "High": 187.1273138435141, "Low": 181.67467021394165, "Close": 181.7445831298828, "Volume": 115799700, "Stock": "AAPL", "Date": "2023-09-30"}
+
+2023-11-04 23:37:03 Produced message on topic Stock_Topic with value of {"Open": 331.1788378660784, "High": 334.4319601684991, "Low": 326.54862623433604, "Close": 327.0874938964844, "Volume": 23727700, "Stock": "MSFT", "Date": "2023-09-30"}
+
+2023-11-04 23:37:04 Produced message on topic Stock_Topic with value of {"Open": 4513.9599609375, "High": 4540.33984375, "Low": 4474.5498046875, "Close": 4478.02978515625, "Volume": 4143310000, "Stock": "^GSPC", "Date": "2023-09-30"}
+
+2023-11-04 23:37:05 Produced message on topic Stock_Topic with value of {"Open": 436.4599914550781, "High": 441.1099853515625, "Low": 428.9100036621094, "Close": 440.760009765625, "Volume": 4781300, "Stock": "NFLX", "Date": "2023-09-29"}
+
+2023-11-04 23:37:06 Produced message on topic Stock_Topic with value of {"Open": 181.88438582414773, "High": 182.88303723219647, "Low": 177.11083331273156, "Close": 178.6088104248047, "Volume": 97576100, "Stock": "AAPL", "Date": "2023-09-29"}
+
+2023-11-04 23:37:07 Produced message on topic Stock_Topic with value of {"Open": 327.67622259778125, "High": 330.4104238442575, "Low": 326.8280123674718, "Close": 329.4125366210937, "Volume": 17741500, "Stock": "MSFT", "Date": "2023-09-29"}
+
+2023-11-04 23:37:08 Produced message on topic Stock_Topic with value of {"Open": 129.16000366210938, "High": 131.61000061035156, "Low": 129.02000427246094, "Close": 131.52999877929688, "Volume": 22746300, "Stock": "GOOGL", "Date": "2023-09-29"}
+
+2023-11-04 23:37:09 Produced message on topic Stock_Topic with value of {"Open": 4491.580078125, "High": 4519.83984375, "Low": 4491.14990234375, "Close": 4518.43994140625, "Volume": 3493920000, "Stock": "^GSPC", "Date": "2023-09-29"}
+
+2023-11-04 23:37:10 Produced message on topic Stock_Topic with value of {"Open": 440.3599853515625, "High": 443.5700073242188, "Low": 435.1000061035156, "Close": 438.2999877929688, "Volume": 3767200, "Stock": "NFLX", "Date": "2023-09-28"}
+
+2023-11-04 23:37:11 Produced message on topic Stock_Topic with value of {"Open": 4498.02978515625, "High": 4503.31005859375, "Low": 4464.39013671875, "Close": 4499.3798828125, "Volume": 3884910000, "Stock": "^GSPC", "Date": "2023-09-28"}
+
+2023-11-04 23:37:12 Produced message on topic Stock_Topic with value of {"Open": 130.6199951171875, "High": 131.50999450683594, "Low": 129.5399932861328, "Close": 131.39999389648438, "Volume": 23535200, "Stock": "GOOGL", "Date": "2023-09-28"}
+
+2023-11-04 23:37:13 Produced message on topic Stock_Topic with value of {"Open": 179.44767337070667, "High": 180.02689301408918, "Low": 177.34051829700232, "Close": 179.55752563476562, "Volume": 67823000, "Stock": "AAPL", "Date": "2023-09-28"}
+
+2023-11-04 23:37:14 Produced message on topic Stock_Topic with value of {"Open": 326.269195522624, "High": 328.05542216561844, "Low": 322.3175706752692, "Close": 325.3611145019531, "Volume": 22327600, "Stock": "MSFT", "Date": "2023-09-28"}
+
+2023-11-04 23:37:15 Produced message on topic Stock_Topic with value of {"Open": 131.66000366210938, "High": 132.0399932861328, "Low": 129.0, "Close": 129.66000366210938, "Volume": 24912900, "Stock": "GOOGL", "Date": "2023-09-27"}
+
+2023-11-04 23:37:16 Produced message on topic Stock_Topic with value of {"Open": 4501.56982421875, "High": 4502.43994140625, "Low": 4461.330078125, "Close": 4467.7099609375, "Volume": 3803100000, "Stock": "^GSPC", "Date": "2023-09-27"}
+
+2023-11-04 23:37:17 Produced message on topic Stock_Topic with value of {"Open": 180.6260856437818, "High": 180.68600229358296, "Low": 176.77129037838316, "Close": 177.94970703125, "Volume": 60378500, "Stock": "AAPL", "Date": "2023-09-27"}
+
+2023-11-04 23:37:19 Produced message on topic Stock_Topic with value of {"Open": 325.7802571185631, "High": 326.4188891335219, "Low": 320.37169473466525, "Close": 321.5492248535156, "Volume": 22373300, "Stock": "MSFT", "Date": "2023-09-27"}
+
+2023-11-04 23:37:20 Produced message on topic Stock_Topic with value of {"Open": 439.739990234375, "High": 440.6199951171875, "Low": 427.5899963378906, "Close": 428.8999938964844, "Volume": 3846600, "Stock": "NFLX", "Date": "2023-09-27"}
+
+2023-11-04 23:37:21 Produced message on topic Stock_Topic with value of {"Open": 131.32000732421875, "High": 132.0500030517578, "Low": 129.4499969482422, "Close": 129.69000244140625, "Volume": 20857800, "Stock": "GOOGL", "Date": "2023-09-26"}
+
+2023-11-04 23:37:22 Produced message on topic Stock_Topic with value of {"Open": 179.23795389693723, "High": 180.50624547624963, "Low": 177.36049957568258, "Close": 177.72999572753906, "Volume": 54686900, "Stock": "AAPL", "Date": "2023-09-26"}
+
+2023-11-04 23:37:23 Produced message on topic Stock_Topic with value of {"Open": 431.1199951171875, "High": 438.1199951171875, "Low": 428.6900024414063, "Close": 429.9800109863281, "Volume": 5467600, "Stock": "NFLX", "Date": "2023-09-26"}
+
+2023-11-04 23:37:24 Produced message on topic Stock_Topic with value of {"Open": 4487.16015625, "High": 4527.3701171875, "Low": 4457.919921875, "Close": 4468.830078125, "Volume": 4504370000, "Stock": "^GSPC", "Date": "2023-09-26"}
+
+2023-11-04 23:37:25 Produced message on topic Stock_Topic with value of {"Open": 325.3311790230579, "High": 327.56646709381016, "Low": 320.5014085545754, "Close": 322.2477111816406, "Volume": 20113700, "Stock": "MSFT", "Date": "2023-09-26"}
+
+2023-11-04 23:37:26 Produced message on topic Stock_Topic with value of {"Open": 128.66000366210938, "High": 129.92999267578125, "Low": 128.1699981689453, "Close": 129.55999755859375, "Volume": 19569200, "Stock": "GOOGL", "Date": "2023-09-25"}
+
+2023-11-04 23:37:27 Produced message on topic Stock_Topic with value of {"Open": 177.32000732421875, "High": 178.6199951171875, "Low": 176.5500030517578, "Close": 177.7899932861328, "Volume": 51988100, "Stock": "AAPL", "Date": "2023-09-25"}
+
+2023-11-04 23:37:28 Produced message on topic Stock_Topic with value of {"Open": 319.58337169233727, "High": 321.7288231305585, "Low": 318.5355718366236, "Close": 320.331787109375, "Volume": 24342600, "Stock": "MSFT", "Date": "2023-09-25"}
+
+2023-11-04 23:37:29 Produced message on topic Stock_Topic with value of {"Open": 4450.68994140625, "High": 4476.22998046875, "Low": 4443.97998046875, "Close": 4464.0498046875, "Volume": 3753290000, "Stock": "^GSPC", "Date": "2023-09-25"}
+
+2023-11-04 23:37:30 Produced message on topic Stock_Topic with value of {"Open": 428.9800109863281, "High": 430.6300048828125, "Low": 421.3299865722656, "Close": 421.6600036621094, "Volume": 3925200, "Stock": "NFLX", "Date": "2023-09-25"}
+
+2023-11-04 23:37:31 Produced message on topic Stock_Topic with value of {"Open": 129.38999938964844, "High": 131.3699951171875, "Low": 128.9600067138672, "Close": 131.3300018310547, "Volume": 24695600, "Stock": "GOOGL", "Date": "2023-09-24"}
+
+2023-11-04 23:37:32 Produced message on topic Stock_Topic with value of {"Open": 177.97000122070312, "High": 179.69000244140625, "Low": 177.30999755859375, "Close": 179.4600067138672, "Volume": 43675600, "Stock": "AAPL", "Date": "2023-09-24"}
+
+2023-11-04 23:37:33 Produced message on topic Stock_Topic with value of {"Open": 320.7110124727644, "High": 323.3753544976337, "Low": 319.4037520989895, "Close": 323.3554077148437, "Volume": 18836100, "Stock": "MSFT", "Date": "2023-09-24"}
+
+2023-11-04 23:37:34 Produced message on topic Stock_Topic with value of {"Open": 421.989990234375, "High": 428.8500061035156, "Low": 418.7799987792969, "Close": 427.7799987792969, "Volume": 3966000, "Stock": "NFLX", "Date": "2023-09-24"}
+
+2023-11-04 23:37:35 Produced message on topic Stock_Topic with value of {"Open": 4458.1298828125, "High": 4490.330078125, "Low": 4453.43994140625, "Close": 4489.72021484375, "Volume": 3896410000, "Stock": "^GSPC", "Date": "2023-09-24"}
+
+2023-11-04 23:37:36 Produced message on topic Stock_Topic with value of {"Open": 131.10000610351562, "High": 131.4199981689453, "Low": 129.27999877929688, "Close": 129.77999877929688, "Volume": 19770700, "Stock": "GOOGL", "Date": "2023-09-23"}
+
+2023-11-04 23:37:37 Produced message on topic Stock_Topic with value of {"Open": 4478.8701171875, "High": 4478.8701171875, "Low": 4432.18994140625, "Close": 4437.85986328125, "Volume": 3832250000, "Stock": "^GSPC", "Date": "2023-09-23"}
+
+2023-11-04 23:37:38 Produced message on topic Stock_Topic with value of {"Open": 178.8800048828125, "High": 179.47999572753906, "Low": 177.0500030517578, "Close": 177.4499969482422, "Volume": 43622600, "Stock": "AAPL", "Date": "2023-09-23"}
+
+2023-11-04 23:37:39 Produced message on topic Stock_Topic with value of {"Open": 322.3175681928427, "High": 324.40314880324786, "Low": 320.22199896536506, "Close": 321.1799621582031, "Volume": 16966300, "Stock": "MSFT", "Date": "2023-09-23"}
+
+2023-11-04 23:37:40 Produced message on topic Stock_Topic with value of {"Open": 424.4100036621094, "High": 429.1199951171875, "Low": 421.0400085449219, "Close": 423.7000122070313, "Volume": 3368000, "Stock": "NFLX", "Date": "2023-09-23"}
+
+2023-11-04 23:37:41 Produced message on topic Stock_Topic with value of {"Open": 423.7300109863281, "High": 424.510009765625, "Low": 415.25, "Close": 415.4500122070313, "Volume": 3967000, "Stock": "NFLX", "Date": "2023-09-22"}
+
+2023-11-04 23:37:42 Produced message on topic Stock_Topic with value of {"Open": 4433.7900390625, "High": 4449.9501953125, "Low": 4403.5498046875, "Close": 4404.330078125, "Volume": 3753910000, "Stock": "^GSPC", "Date": "2023-09-22"}
+
+2023-11-04 23:37:43 Produced message on topic Stock_Topic with value of {"Open": 128.6999969482422, "High": 130.27999877929688, "Low": 127.87000274658205, "Close": 128.6999969482422, "Volume": 25216100, "Stock": "GOOGL", "Date": "2023-09-22"}
+
+2023-11-04 23:37:44 Produced message on topic Stock_Topic with value of {"Open": 177.1300048828125, "High": 178.5399932861328, "Low": 176.5, "Close": 176.57000732421875, "Volume": 46964900, "Stock": "AAPL", "Date": "2023-09-22"}
+
+2023-11-04 23:37:45 Produced message on topic Stock_Topic with value of {"Open": 320.79998779296875, "High": 324.4200134277344, "Low": 319.79998779296875, "Close": 320.3999938964844, "Volume": 20698900, "Stock": "MSFT", "Date": "2023-09-22"}
+
+2023-11-04 23:37:46 Produced message on topic Stock_Topic with value of {"Open": 320.5400085449219, "High": 321.8699951171875, "Low": 316.2099914550781, "Close": 316.8800048828125, "Volume": 21257200, "Stock": "MSFT", "Date": "2023-09-21"}
+
+2023-11-04 23:37:47 Produced message on topic Stock_Topic with value of {"Open": 177.13999938964844, "High": 177.50999450683594, "Low": 173.47999572753906, "Close": 174.0, "Volume": 66062900, "Stock": "AAPL", "Date": "2023-09-21"}
+
+2023-11-04 23:37:48 Produced message on topic Stock_Topic with value of {"Open": 129.8000030517578, "High": 131.99000549316406, "Low": 129.2899932861328, "Close": 129.9199981689453, "Volume": 33446300, "Stock": "GOOGL", "Date": "2023-09-21"}
+
+2023-11-04 23:37:49 Produced message on topic Stock_Topic with value of {"Open": 415.0, "High": 415.239990234375, "Low": 401.5799865722656, "Close": 403.0, "Volume": 6031500, "Stock": "NFLX", "Date": "2023-09-21"}
+
+2023-11-04 23:37:50 Produced message on topic Stock_Topic with value of {"Open": 4416.31982421875, "High": 4421.169921875, "Low": 4364.830078125, "Close": 4370.35986328125, "Volume": 3943700000, "Stock": "^GSPC", "Date": "2023-09-21"}
+
+2023-11-04 23:37:51 Produced message on topic Stock_Topic with value of {"Open": 172.3000030517578, "High": 175.10000610351562, "Low": 171.9600067138672, "Close": 174.49000549316406, "Volume": 61114200, "Stock": "AAPL", "Date": "2023-09-20"}
+
+2023-11-04 23:37:52 Produced message on topic Stock_Topic with value of {"Open": 399.3299865722656, "High": 406.5199890136719, "Low": 398.1499938964844, "Close": 404.5299987792969, "Volume": 4309200, "Stock": "NFLX", "Date": "2023-09-20"}
+
+2023-11-04 23:37:53 Produced message on topic Stock_Topic with value of {"Open": 128.50999450683594, "High": 129.25, "Low": 126.37999725341795, "Close": 127.45999908447266, "Volume": 30491300, "Stock": "GOOGL", "Date": "2023-09-20"}
+
+2023-11-04 23:37:54 Produced message on topic Stock_Topic with value of {"Open": 4344.8798828125, "High": 4381.81982421875, "Low": 4335.31005859375, "Close": 4369.7099609375, "Volume": 3940400000, "Stock": "^GSPC", "Date": "2023-09-20"}
+
+2023-11-04 23:37:55 Produced message on topic Stock_Topic with value of {"Open": 314.489990234375, "High": 318.3800048828125, "Low": 311.54998779296875, "Close": 316.4800109863281, "Volume": 24744800, "Stock": "MSFT", "Date": "2023-09-20"}
+
+2023-11-04 23:37:56 Produced message on topic Stock_Topic with value of {"Open": 317.92999267578125, "High": 322.7699890136719, "Low": 317.0400085449219, "Close": 321.8800048828125, "Volume": 24040000, "Stock": "MSFT", "Date": "2023-09-19"}
+
+2023-11-04 23:37:57 Produced message on topic Stock_Topic with value of {"Open": 175.07000732421875, "High": 176.1300048828125, "Low": 173.74000549316406, "Close": 175.83999633789062, "Volume": 46311900, "Stock": "AAPL", "Date": "2023-09-19"}
+
+2023-11-04 23:37:58 Produced message on topic Stock_Topic with value of {"Open": 402.2300109863281, "High": 409.6099853515625, "Low": 399.5, "Close": 408.2900085449219, "Volume": 3861600, "Stock": "NFLX", "Date": "2023-09-19"}
+
+2023-11-04 23:37:59 Produced message on topic Stock_Topic with value of {"Open": 127.18000030517578, "High": 128.72999572753906, "Low": 126.55999755859376, "Close": 128.3699951171875, "Volume": 25248700, "Stock": "GOOGL", "Date": "2023-09-19"}
+
+2023-11-04 23:38:00 Produced message on topic Stock_Topic with value of {"Open": 4380.27978515625, "High": 4407.5498046875, "Low": 4360.2998046875, "Close": 4399.77001953125, "Volume": 3726850000, "Stock": "^GSPC", "Date": "2023-09-19"}
+
+2023-11-04 23:38:01 Produced message on topic Stock_Topic with value of {"Open": 409.0, "High": 415.739990234375, "Low": 407.3999938964844, "Close": 413.1700134277344, "Volume": 3603300, "Stock": "NFLX", "Date": "2023-09-18"}
+
+2023-11-04 23:38:02 Produced message on topic Stock_Topic with value of {"Open": 177.05999755859375, "High": 177.67999267578125, "Low": 176.25, "Close": 177.22999572753906, "Volume": 42084200, "Stock": "AAPL", "Date": "2023-09-18"}
+
+2023-11-04 23:38:03 Produced message on topic Stock_Topic with value of {"Open": 4415.330078125, "High": 4418.58984375, "Low": 4382.77001953125, "Close": 4387.5498046875, "Volume": 3522760000, "Stock": "^GSPC", "Date": "2023-09-18"}
+
+2023-11-04 23:38:04 Produced message on topic Stock_Topic with value of {"Open": 128.50999450683594, "High": 130.27999877929688, "Low": 128.32000732421875, "Close": 129.0800018310547, "Volume": 22067500, "Stock": "GOOGL", "Date": "2023-09-18"}
+
+2023-11-04 23:38:05 Produced message on topic Stock_Topic with value of {"Open": 325.5, "High": 326.0799865722656, "Low": 321.4599914550781, "Close": 322.4599914550781, "Volume": 16102000, "Stock": "MSFT", "Date": "2023-09-18"}
+
+2023-11-04 23:38:06 Produced message on topic Stock_Topic with value of {"Open": 130.17999267578125, "High": 133.41000366210938, "Low": 129.8699951171875, "Close": 132.3699951171875, "Volume": 27819700, "Stock": "GOOGL", "Date": "2023-09-17"}
+
+2023-11-04 23:38:07 Produced message on topic Stock_Topic with value of {"Open": 418.3999938964844, "High": 437.0199890136719, "Low": 417.7099914550781, "Close": 427.5499877929688, "Volume": 8174700, "Stock": "NFLX", "Date": "2023-09-17"}
+
+2023-11-04 23:38:08 Produced message on topic Stock_Topic with value of {"Open": 323.82000732421875, "High": 329.20001220703125, "Low": 323.4599914550781, "Close": 327.0, "Volume": 21166400, "Stock": "MSFT", "Date": "2023-09-17"}
+
+2023-11-04 23:38:09 Produced message on topic Stock_Topic with value of {"Open": 178.52000427246094, "High": 181.5500030517578, "Low": 178.3300018310547, "Close": 181.1199951171875, "Volume": 52722800, "Stock": "AAPL", "Date": "2023-09-17"}
+
+2023-11-04 23:38:10 Produced message on topic Stock_Topic with value of {"Open": 4396.43994140625, "High": 4443.18017578125, "Low": 4396.43994140625, "Close": 4436.009765625, "Volume": 3837270000, "Stock": "^GSPC", "Date": "2023-09-17"}
+
+2023-11-04 23:38:11 Produced message on topic Stock_Topic with value of {"Open": 425.4100036621094, "High": 427.5899963378906, "Low": 406.1700134277344, "Close": 406.9299926757813, "Volume": 5687800, "Stock": "NFLX", "Date": "2023-09-16"}
+
+2023-11-04 23:38:12 Produced message on topic Stock_Topic with value of {"Open": 4455.16015625, "High": 4458.2998046875, "Low": 4375.5498046875, "Close": 4376.31005859375, "Volume": 3723470000, "Stock": "^GSPC", "Date": "2023-09-16"}
+
+2023-11-04 23:38:13 Produced message on topic Stock_Topic with value of {"Open": 133.9499969482422, "High": 134.25, "Low": 129.57000732421875, "Close": 129.77999877929688, "Volume": 28500700, "Stock": "GOOGL", "Date": "2023-09-16"}
+
+2023-11-04 23:38:14 Produced message on topic Stock_Topic with value of {"Open": 332.8500061035156, "High": 332.9800109863281, "Low": 319.9599914550781, "Close": 319.9700012207031, "Volume": 23281400, "Stock": "MSFT", "Date": "2023-09-16"}
+
+2023-11-04 23:38:15 Produced message on topic Stock_Topic with value of {"Open": 180.6699981689453, "High": 181.1000061035156, "Low": 176.00999450683594, "Close": 176.3800048828125, "Volume": 54945800, "Stock": "AAPL", "Date": "2023-09-16"}
+
+2023-11-04 23:38:16 Produced message on topic Stock_Topic with value of {"Open": 321.4700012207031, "High": 325.3599853515625, "Low": 318.79998779296875, "Close": 322.9800109863281, "Volume": 21684100, "Stock": "MSFT", "Date": "2023-09-15"}
+
+2023-11-04 23:38:17 Produced message on topic Stock_Topic with value of {"Open": 4389.3798828125, "High": 4418.4599609375, "Low": 4356.2900390625, "Close": 4405.7099609375, "Volume": 3296180000, "Stock": "^GSPC", "Date": "2023-09-15"}
+
+2023-11-04 23:38:18 Produced message on topic Stock_Topic with value of {"Open": 177.3800048828125, "High": 179.14999389648438, "Low": 175.82000732421875, "Close": 178.61000061035156, "Volume": 51449600, "Stock": "AAPL", "Date": "2023-09-15"}
+
+2023-11-04 23:38:19 Produced message on topic Stock_Topic with value of {"Open": 412.0, "High": 419.25, "Low": 407.55999755859375, "Close": 416.0299987792969, "Volume": 5390900, "Stock": "NFLX", "Date": "2023-09-15"}
+
+2023-11-04 23:38:20 Produced message on topic Stock_Topic with value of {"Open": 129.5399932861328, "High": 130.75999450683594, "Low": 127.25, "Close": 129.8800048828125, "Volume": 26762900, "Stock": "GOOGL", "Date": "2023-09-15"}
+
+2023-11-04 23:38:21 Produced message on topic Stock_Topic with value of {"Open": 418.0400085449219, "High": 419.8299865722656, "Low": 413.2699890136719, "Close": 418.05999755859375, "Volume": 2928600, "Stock": "NFLX", "Date": "2023-09-14"}
+
+2023-11-04 23:38:22 Produced message on topic Stock_Topic with value of {"Open": 180.08999633789062, "High": 180.58999633789065, "Low": 178.5500030517578, "Close": 180.19000244140625, "Volume": 43820700, "Stock": "AAPL", "Date": "2023-09-14"}
+
+2023-11-04 23:38:23 Produced message on topic Stock_Topic with value of {"Open": 4426.02978515625, "High": 4439.56005859375, "Low": 4414.97998046875, "Close": 4433.31005859375, "Volume": 2957230000, "Stock": "^GSPC", "Date": "2023-09-14"}
+
+2023-11-04 23:38:24 Produced message on topic Stock_Topic with value of {"Open": 131.30999755859375, "High": 132.5399932861328, "Low": 130.13999938964844, "Close": 131.00999450683594, "Volume": 20543300, "Stock": "GOOGL", "Date": "2023-09-14"}
+
+2023-11-04 23:38:25 Produced message on topic Stock_Topic with value of {"Open": 325.6600036621094, "High": 326.1499938964844, "Low": 321.7200012207031, "Close": 323.70001220703125, "Volume": 14808500, "Stock": "MSFT", "Date": "2023-09-14"}
+
+2023-11-04 23:38:26 Produced message on topic Stock_Topic with value of {"Open": 179.6999969482422, "High": 184.8999938964844, "Low": 179.5, "Close": 184.1199951171875, "Volume": 53003900, "Stock": "AAPL", "Date": "2023-09-13"}
+
+2023-11-04 23:38:27 Produced message on topic Stock_Topic with value of {"Open": 4432.75, "High": 4500.14013671875, "Low": 4431.68017578125, "Close": 4497.6298828125, "Volume": 3354820000, "Stock": "^GSPC", "Date": "2023-09-13"}
+
+2023-11-04 23:38:28 Produced message on topic Stock_Topic with value of {"Open": 132.24000549316406, "High": 136.57000732421875, "Low": 132.24000549316406, "Close": 134.57000732421875, "Volume": 43075600, "Stock": "GOOGL", "Date": "2023-09-13"}
+
+2023-11-04 23:38:29 Produced message on topic Stock_Topic with value of {"Open": 321.8800048828125, "High": 328.9800109863281, "Low": 321.8800048828125, "Close": 328.4100036621094, "Volume": 19284600, "Stock": "MSFT", "Date": "2023-09-13"}
+
+2023-11-04 23:38:30 Produced message on topic Stock_Topic with value of {"Open": 416.0, "High": 432.1700134277344, "Low": 414.5, "Close": 429.989990234375, "Volume": 4486700, "Stock": "NFLX", "Date": "2023-09-13"}
+
+2023-11-04 23:38:31 Produced message on topic Stock_Topic with value of {"Open": 184.94000244140625, "High": 187.8500061035156, "Low": 184.7400054931641, "Close": 187.6499938964844, "Volume": 60813900, "Stock": "AAPL", "Date": "2023-09-12"}
+
+2023-11-04 23:38:33 Produced message on topic Stock_Topic with value of {"Open": 4500.33984375, "High": 4521.64990234375, "Low": 4493.58984375, "Close": 4514.8701171875, "Volume": 3064110000, "Stock": "^GSPC", "Date": "2023-09-12"}
+
+2023-11-04 23:38:34 Produced message on topic Stock_Topic with value of {"Open": 134.77999877929688, "High": 136.27999877929688, "Low": 134.07000732421875, "Close": 135.8800048828125, "Volume": 28315800, "Stock": "GOOGL", "Date": "2023-09-12"}
+
+2023-11-04 23:38:35 Produced message on topic Stock_Topic with value of {"Open": 328.6700134277344, "High": 329.8099975585937, "Low": 326.45001220703125, "Close": 328.7900085449219, "Volume": 15222100, "Stock": "MSFT", "Date": "2023-09-12"}
+
+2023-11-04 23:38:36 Produced message on topic Stock_Topic with value of {"Open": 430.8500061035156, "High": 438.1600036621094, "Low": 428.3500061035156, "Close": 434.6700134277344, "Volume": 3625400, "Stock": "NFLX", "Date": "2023-09-12"}
+
+2023-11-04 23:38:37 Produced message on topic Stock_Topic with value of {"Open": 136.00999450683594, "High": 138.0, "Low": 135.7899932861328, "Close": 136.1699981689453, "Volume": 30053800, "Stock": "GOOGL", "Date": "2023-09-11"}
+
+2023-11-04 23:38:38 Produced message on topic Stock_Topic with value of {"Open": 329.20001220703125, "High": 330.9100036621094, "Low": 326.7799987792969, "Close": 327.760009765625, "Volume": 26411000, "Stock": "MSFT", "Date": "2023-09-11"}
+
+2023-11-04 23:38:39 Produced message on topic Stock_Topic with value of {"Open": 4517.009765625, "High": 4532.259765625, "Low": 4507.39013671875, "Close": 4507.66015625, "Volume": 3946360000, "Stock": "^GSPC", "Date": "2023-09-11"}
+
+2023-11-04 23:38:40 Produced message on topic Stock_Topic with value of {"Open": 431.2300109863281, "High": 437.1499938964844, "Low": 431.2300109863281, "Close": 433.6799926757813, "Volume": 3803000, "Stock": "NFLX", "Date": "2023-09-11"}
+
+2023-11-04 23:38:41 Produced message on topic Stock_Topic with value of {"Open": 187.83999633789065, "High": 189.1199951171875, "Low": 187.47999572753903, "Close": 187.8699951171875, "Volume": 60794500, "Stock": "AAPL", "Date": "2023-09-11"}
+
+2023-11-04 23:38:42 Produced message on topic Stock_Topic with value of {"Open": 437.7300109863281, "High": 445.5, "Low": 435.9299926757813, "Close": 439.8800048828125, "Volume": 4792100, "Stock": "NFLX", "Date": "2023-09-10"}
+
+2023-11-04 23:38:43 Produced message on topic Stock_Topic with value of {"Open": 189.4900054931641, "High": 189.9199981689453, "Low": 188.27999877929688, "Close": 189.4600067138672, "Volume": 45732600, "Stock": "AAPL", "Date": "2023-09-10"}
+
+2023-11-04 23:38:44 Produced message on topic Stock_Topic with value of {"Open": 331.3099975585937, "High": 331.989990234375, "Low": 326.7799987792969, "Close": 328.6600036621094, "Volume": 14931200, "Stock": "MSFT", "Date": "2023-09-10"}
+
+2023-11-04 23:38:45 Produced message on topic Stock_Topic with value of {"Open": 4530.60009765625, "High": 4541.25, "Low": 4501.35009765625, "Close": 4515.77001953125, "Volume": 3246260000, "Stock": "^GSPC", "Date": "2023-09-10"}
+
+2023-11-04 23:38:46 Produced message on topic Stock_Topic with value of {"Open": 137.4600067138672, "High": 137.4600067138672, "Low": 134.85000610351562, "Close": 135.66000366210938, "Volume": 21524600, "Stock": "GOOGL", "Date": "2023-09-10"}
+
+2023-11-04 23:38:47 Produced message on topic Stock_Topic with value of {"Open": 135.44000244140625, "High": 136.4199981689453, "Low": 134.5800018310547, "Close": 135.77000427246094, "Volume": 19403100, "Stock": "GOOGL", "Date": "2023-09-09"}
+
+2023-11-04 23:38:48 Produced message on topic Stock_Topic with value of {"Open": 438.3900146484375, "High": 453.4500122070313, "Low": 438.0, "Close": 448.6799926757813, "Volume": 6155900, "Stock": "NFLX", "Date": "2023-09-09"}
+
+2023-11-04 23:38:49 Produced message on topic Stock_Topic with value of {"Open": 4510.06005859375, "High": 4514.2900390625, "Low": 4496.009765625, "Close": 4496.830078125, "Volume": 3526250000, "Stock": "^GSPC", "Date": "2023-09-09"}
+
+2023-11-04 23:38:50 Produced message on topic Stock_Topic with value of {"Open": 329.0, "High": 334.8500061035156, "Low": 328.6600036621094, "Close": 333.54998779296875, "Volume": 18553900, "Stock": "MSFT", "Date": "2023-09-09"}
+
+2023-11-04 23:38:51 Produced message on topic Stock_Topic with value of {"Open": 188.27999877929688, "High": 189.97999572753903, "Low": 187.6100006103516, "Close": 189.6999969482422, "Volume": 45280000, "Stock": "AAPL", "Date": "2023-09-09"}
+
+2023-11-04 23:38:52 Produced message on topic Stock_Topic with value of {"Open": 188.3999938964844, "High": 188.8500061035156, "Low": 181.47000122070312, "Close": 182.91000366210935, "Volume": 81755800, "Stock": "AAPL", "Date": "2023-09-08"}
+
+2023-11-04 23:38:53 Produced message on topic Stock_Topic with value of {"Open": 4490.35009765625, "High": 4490.35009765625, "Low": 4442.3798828125, "Close": 4465.47998046875, "Volume": 3418850000, "Stock": "^GSPC", "Date": "2023-09-08"}
+
+2023-11-04 23:38:54 Produced message on topic Stock_Topic with value of {"Open": 448.6099853515625, "High": 451.3900146484375, "Low": 440.489990234375, "Close": 445.760009765625, "Volume": 3862300, "Stock": "NFLX", "Date": "2023-09-08"}
+
+2023-11-04 23:38:55 Produced message on topic Stock_Topic with value of {"Open": 136.02000427246094, "High": 136.52999877929688, "Low": 133.6699981689453, "Close": 134.4600067138672, "Volume": 18684500, "Stock": "GOOGL", "Date": "2023-09-08"}
+
+2023-11-04 23:38:56 Produced message on topic Stock_Topic with value of {"Open": 333.3800048828125, "High": 334.4599914550781, "Low": 330.17999267578125, "Close": 332.8800048828125, "Volume": 17535800, "Stock": "MSFT", "Date": "2023-09-08"}
+
+2023-11-04 23:38:57 Produced message on topic Stock_Topic with value of {"Open": 175.17999267578125, "High": 178.2100067138672, "Low": 173.5399932861328, "Close": 177.55999755859375, "Volume": 112488800, "Stock": "AAPL", "Date": "2023-09-07"}
+
+2023-11-04 23:38:58 Produced message on topic Stock_Topic with value of {"Open": 441.1499938964844, "High": 444.6000061035156, "Low": 436.7000122070313, "Close": 443.1400146484375, "Volume": 2922700, "Stock": "NFLX", "Date": "2023-09-07"}
+
+2023-11-04 23:38:59 Produced message on topic Stock_Topic with value of {"Open": 133.58999633789062, "High": 135.5800018310547, "Low": 132.9499969482422, "Close": 135.25999450683594, "Volume": 18844300, "Stock": "GOOGL", "Date": "2023-09-07"}
+
+2023-11-04 23:39:00 Produced message on topic Stock_Topic with value of {"Open": 4434.5498046875, "High": 4457.81005859375, "Low": 4430.4599609375, "Close": 4451.14013671875, "Volume": 3763760000, "Stock": "^GSPC", "Date": "2023-09-07"}
+
+2023-11-04 23:39:01 Produced message on topic Stock_Topic with value of {"Open": 331.2900085449219, "High": 333.0799865722656, "Low": 329.0299987792969, "Close": 329.9100036621094, "Volume": 18381000, "Stock": "MSFT", "Date": "2023-09-07"}
+
+2023-11-04 23:39:02 Produced message on topic Stock_Topic with value of {"Open": 443.55999755859375, "High": 446.80999755859375, "Low": 438.8500061035156, "Close": 442.7999877929688, "Volume": 2697500, "Stock": "NFLX", "Date": "2023-09-06"}
+
+2023-11-04 23:39:03 Produced message on topic Stock_Topic with value of {"Open": 134.91000366210938, "High": 136.66000366210938, "Low": 134.85000610351562, "Close": 136.3800048828125, "Volume": 23558300, "Stock": "GOOGL", "Date": "2023-09-06"}
+
+2023-11-04 23:39:04 Produced message on topic Stock_Topic with value of {"Open": 4451.2998046875, "High": 4473.52978515625, "Low": 4448.3798828125, "Close": 4457.490234375, "Volume": 3259290000, "Stock": "^GSPC", "Date": "2023-09-06"}
+
+2023-11-04 23:39:05 Produced message on topic Stock_Topic with value of {"Open": 178.35000610351562, "High": 180.2400054931641, "Low": 177.7899932861328, "Close": 178.17999267578125, "Volume": 65551300, "Stock": "AAPL", "Date": "2023-09-06"}
+
+2023-11-04 23:39:06 Produced message on topic Stock_Topic with value of {"Open": 330.0899963378906, "High": 336.1600036621094, "Low": 329.4599914550781, "Close": 334.2699890136719, "Volume": 19530100, "Stock": "MSFT", "Date": "2023-09-06"}
+
+2023-11-04 23:39:07 Produced message on topic Stock_Topic with value of {"Open": 4480.97998046875, "High": 4490.77001953125, "Low": 4467.89013671875, "Close": 4487.4599609375, "Volume": 3369920000, "Stock": "^GSPC", "Date": "2023-09-05"}
+
+2023-11-04 23:39:08 Produced message on topic Stock_Topic with value of {"Open": 443.0700073242188, "High": 449.8900146484375, "Low": 442.75, "Close": 445.3599853515625, "Volume": 2913800, "Stock": "NFLX", "Date": "2023-09-05"}
+
+2023-11-04 23:39:09 Produced message on topic Stock_Topic with value of {"Open": 180.07000732421875, "High": 180.3000030517578, "Low": 177.33999633789062, "Close": 179.36000061035156, "Volume": 58953100, "Stock": "AAPL", "Date": "2023-09-05"}
+
+2023-11-04 23:39:10 Produced message on topic Stock_Topic with value of {"Open": 136.5399932861328, "High": 137.47999572753906, "Low": 135.7899932861328, "Close": 136.9199981689453, "Volume": 20763400, "Stock": "GOOGL", "Date": "2023-09-05"}
+
+2023-11-04 23:39:11 Produced message on topic Stock_Topic with value of {"Open": 337.239990234375, "High": 338.4200134277344, "Low": 335.42999267578125, "Close": 337.94000244140625, "Volume": 16583300, "Stock": "MSFT", "Date": "2023-09-05"}
+
+2023-11-04 23:39:12 Produced message on topic Stock_Topic with value of {"Open": 442.8500061035156, "High": 445.4400024414063, "Low": 434.1199951171875, "Close": 434.6900024414063, "Volume": 3124000, "Stock": "NFLX", "Date": "2023-09-04"}
+
+2023-11-04 23:39:13 Produced message on topic Stock_Topic with value of {"Open": 179.49000549316406, "High": 180.1300048828125, "Low": 174.82000732421875, "Close": 176.3000030517578, "Volume": 90370200, "Stock": "AAPL", "Date": "2023-09-04"}
+
+2023-11-04 23:39:14 Produced message on topic Stock_Topic with value of {"Open": 335.82000732421875, "High": 336.7900085449219, "Low": 331.4800109863281, "Close": 331.7699890136719, "Volume": 17565500, "Stock": "MSFT", "Date": "2023-09-04"}
+
+2023-11-04 23:39:15 Produced message on topic Stock_Topic with value of {"Open": 136.25999450683594, "High": 136.8699951171875, "Low": 135.19000244140625, "Close": 135.33999633789062, "Volume": 18405500, "Stock": "GOOGL", "Date": "2023-09-04"}
+
+2023-11-04 23:39:16 Produced message on topic Stock_Topic with value of {"Open": 4473.27001953125, "High": 4487.10986328125, "Low": 4456.830078125, "Close": 4461.89990234375, "Volume": 3435740000, "Stock": "^GSPC", "Date": "2023-09-04"}
+
+2023-11-04 23:39:17 Produced message on topic Stock_Topic with value of {"Open": 331.3099975585937, "High": 336.8500061035156, "Low": 331.1700134277344, "Close": 336.0599975585937, "Volume": 16544400, "Stock": "MSFT", "Date": "2023-09-03"}
+
+2023-11-04 23:39:18 Produced message on topic Stock_Topic with value of {"Open": 176.50999450683594, "High": 177.3000030517578, "Low": 173.97999572753906, "Close": 174.2100067138672, "Volume": 84267900, "Stock": "AAPL", "Date": "2023-09-03"}
+
+2023-11-04 23:39:19 Produced message on topic Stock_Topic with value of {"Open": 135.08999633789062, "High": 136.89999389648438, "Low": 134.14999389648438, "Close": 136.7100067138672, "Volume": 20749500, "Stock": "GOOGL", "Date": "2023-09-03"}
+
+2023-11-04 23:39:20 Produced message on topic Stock_Topic with value of {"Open": 4462.64990234375, "High": 4479.39013671875, "Low": 4453.52001953125, "Close": 4467.43994140625, "Volume": 3529430000, "Stock": "^GSPC", "Date": "2023-09-03"}
+
+2023-11-04 23:39:21 Produced message on topic Stock_Topic with value of {"Open": 435.5, "High": 438.3999938964844, "Low": 410.6900024414063, "Close": 412.239990234375, "Volume": 11843000, "Stock": "NFLX", "Date": "2023-09-03"}
+
+2023-11-04 23:39:22 Produced message on topic Stock_Topic with value of {"Open": 339.1499938964844, "High": 340.8599853515625, "Low": 336.57000732421875, "Close": 338.70001220703125, "Volume": 20267000, "Stock": "MSFT", "Date": "2023-09-02"}
+
+2023-11-04 23:39:23 Produced message on topic Stock_Topic with value of {"Open": 137.60000610351562, "High": 138.6999969482422, "Low": 136.24000549316406, "Close": 138.10000610351562, "Volume": 24751000, "Stock": "GOOGL", "Date": "2023-09-02"}
+
+2023-11-04 23:39:24 Produced message on topic Stock_Topic with value of {"Open": 410.3999938964844, "High": 411.3900146484375, "Low": 400.0, "Close": 400.489990234375, "Volume": 10709000, "Stock": "NFLX", "Date": "2023-09-02"}
+
+2023-11-04 23:39:25 Produced message on topic Stock_Topic with value of {"Open": 174.0, "High": 176.10000610351562, "Low": 173.5800018310547, "Close": 175.74000549316406, "Volume": 60895800, "Stock": "AAPL", "Date": "2023-09-02"}
+
+2023-11-04 23:39:26 Produced message on topic Stock_Topic with value of {"Open": 4487.77978515625, "High": 4511.990234375, "Low": 4478.68994140625, "Close": 4505.10009765625, "Volume": 3648720000, "Stock": "^GSPC", "Date": "2023-09-02"}
+
+2023-11-04 23:39:27 Produced message on topic Stock_Topic with value of {"Open": 401.0, "High": 404.7000122070313, "Low": 395.0299987792969, "Close": 396.9400024414063, "Volume": 9110700, "Stock": "NFLX", "Date": "2023-09-01"}
+
+2023-11-04 23:39:28 Produced message on topic Stock_Topic with value of {"Open": 137.97999572753906, "High": 138.52000427246094, "Low": 136.47999572753906, "Close": 137.39999389648438, "Volume": 38908400, "Stock": "GOOGL", "Date": "2023-09-01"}
+
+2023-11-04 23:39:29 Produced message on topic Stock_Topic with value of {"Open": 176.47999572753906, "High": 176.5, "Low": 173.82000732421875, "Close": 175.00999450683594, "Volume": 109205100, "Stock": "AAPL", "Date": "2023-09-01"}
+
+2023-11-04 23:39:30 Produced message on topic Stock_Topic with value of {"Open": 336.9200134277344, "High": 337.3999938964844, "Low": 329.6499938964844, "Close": 330.2200012207031, "Volume": 37666900, "Stock": "MSFT", "Date": "2023-09-01"}
+
+2023-11-04 23:39:31 Produced message on topic Stock_Topic with value of {"Open": 4497.97998046875, "High": 4497.97998046875, "Low": 4447.2099609375, "Close": 4450.31982421875, "Volume": 6932230000, "Stock": "^GSPC", "Date": "2023-09-01"}
+
+2023-11-04 23:39:32 Produced message on topic Stock_Topic with value of {"Open": 176.47999572753906, "High": 179.3800048828125, "Low": 176.1699981689453, "Close": 177.97000122070312, "Volume": 67257600, "Stock": "AAPL", "Date": "2023-08-31"}
+
+2023-11-04 23:39:33 Produced message on topic Stock_Topic with value of {"Open": 4445.1298828125, "High": 4466.35986328125, "Low": 4442.10986328125, "Close": 4453.52978515625, "Volume": 3161230000, "Stock": "^GSPC", "Date": "2023-08-31"}
+
+2023-11-04 23:39:34 Produced message on topic Stock_Topic with value of {"Open": 327.79998779296875, "High": 330.3999938964844, "Low": 326.3599853515625, "Close": 329.0599975585937, "Volume": 16834200, "Stock": "MSFT", "Date": "2023-08-31"}
+
+2023-11-04 23:39:35 Produced message on topic Stock_Topic with value of {"Open": 395.5, "High": 399.4700012207031, "Low": 392.6000061035156, "Close": 394.3999938964844, "Volume": 4704700, "Stock": "NFLX", "Date": "2023-08-31"}
+
+2023-11-04 23:39:36 Produced message on topic Stock_Topic with value of {"Open": 136.61000061035156, "High": 139.16000366210938, "Low": 136.61000061035156, "Close": 138.2100067138672, "Volume": 21861300, "Stock": "GOOGL", "Date": "2023-08-31"}
+
+2023-11-04 23:39:37 Produced message on topic Stock_Topic with value of {"Open": 4445.41015625, "High": 4449.85009765625, "Low": 4416.60986328125, "Close": 4443.9501953125, "Volume": 3614880000, "Stock": "^GSPC", "Date": "2023-08-30"}
+
+2023-11-04 23:39:38 Produced message on topic Stock_Topic with value of {"Open": 392.8399963378906, "High": 398.2300109863281, "Low": 390.25, "Close": 396.2000122070313, "Volume": 4076800, "Stock": "NFLX", "Date": "2023-08-30"}
+
+2023-11-04 23:39:39 Produced message on topic Stock_Topic with value of {"Open": 326.1700134277344, "High": 329.3900146484375, "Low": 324.510009765625, "Close": 328.6499938964844, "Volume": 16505900, "Stock": "MSFT", "Date": "2023-08-30"}
+
+2023-11-04 23:39:40 Produced message on topic Stock_Topic with value of {"Open": 177.52000427246094, "High": 179.6300048828125, "Low": 177.1300048828125, "Close": 179.07000732421875, "Volume": 51826900, "Stock": "AAPL", "Date": "2023-08-30"}
+
+2023-11-04 23:39:42 Produced message on topic Stock_Topic with value of {"Open": 137.4199981689453, "High": 138.41000366210938, "Low": 136.6199951171875, "Close": 138.0399932861328, "Volume": 20353700, "Stock": "GOOGL", "Date": "2023-08-30"}
+
+2023-11-04 23:39:43 Produced message on topic Stock_Topic with value of {"Open": 179.25999450683594, "High": 179.6999969482422, "Low": 175.39999389648438, "Close": 175.49000549316406, "Volume": 58436200, "Stock": "AAPL", "Date": "2023-08-29"}
+
+2023-11-04 23:39:44 Produced message on topic Stock_Topic with value of {"Open": 329.510009765625, "High": 329.5899963378906, "Low": 320.510009765625, "Close": 320.7699890136719, "Volume": 21436500, "Stock": "MSFT", "Date": "2023-08-29"}
+
+2023-11-04 23:39:45 Produced message on topic Stock_Topic with value of {"Open": 138.0800018310547, "High": 138.0800018310547, "Low": 133.6199951171875, "Close": 133.74000549316406, "Volume": 29927500, "Stock": "GOOGL", "Date": "2023-08-29"}
+
+2023-11-04 23:39:46 Produced message on topic Stock_Topic with value of {"Open": 397.0499877929688, "High": 397.989990234375, "Low": 386.1199951171875, "Close": 386.2999877929688, "Volume": 3866600, "Stock": "NFLX", "Date": "2023-08-29"}
+
+2023-11-04 23:39:47 Produced message on topic Stock_Topic with value of {"Open": 4452.81005859375, "High": 4461.02978515625, "Low": 4401.3798828125, "Close": 4402.2001953125, "Volume": 3308450000, "Stock": "^GSPC", "Date": "2023-08-29"}
+
+2023-11-04 23:39:48 Produced message on topic Stock_Topic with value of {"Open": 319.260009765625, "High": 325.3500061035156, "Low": 315.0, "Close": 319.5299987792969, "Volume": 35529500, "Stock": "MSFT", "Date": "2023-08-28"}
+
+2023-11-04 23:39:49 Produced message on topic Stock_Topic with value of {"Open": 386.5, "High": 395.8999938964844, "Low": 383.4200134277344, "Close": 384.1499938964844, "Volume": 5547900, "Stock": "NFLX", "Date": "2023-08-28"}
+
+2023-11-04 23:39:50 Produced message on topic Stock_Topic with value of {"Open": 174.5500030517578, "High": 176.3000030517578, "Low": 173.86000061035156, "Close": 173.92999267578125, "Volume": 63047900, "Stock": "AAPL", "Date": "2023-08-28"}
+
+2023-11-04 23:39:51 Produced message on topic Stock_Topic with value of {"Open": 4374.35986328125, "High": 4375.7001953125, "Low": 4329.169921875, "Close": 4330.0, "Volume": 3662340000, "Stock": "^GSPC", "Date": "2023-08-28"}
+
+2023-11-04 23:39:52 Produced message on topic Stock_Topic with value of {"Open": 131.44000244140625, "High": 132.22999572753906, "Low": 130.07000732421875, "Close": 130.44000244140625, "Volume": 31488700, "Stock": "GOOGL", "Date": "2023-08-28"}
+
+2023-11-04 23:39:53 Produced message on topic Stock_Topic with value of {"Open": 4341.740234375, "High": 4357.39990234375, "Low": 4316.490234375, "Close": 4320.06005859375, "Volume": 3349570000, "Stock": "^GSPC", "Date": "2023-08-27"}
+
+2023-11-04 23:39:54 Produced message on topic Stock_Topic with value of {"Open": 321.32000732421875, "High": 321.45001220703125, "Low": 316.1499938964844, "Close": 317.010009765625, "Volume": 21447900, "Stock": "MSFT", "Date": "2023-08-27"}
+
+2023-11-04 23:39:55 Produced message on topic Stock_Topic with value of {"Open": 174.6699981689453, "High": 177.0800018310547, "Low": 174.0500030517578, "Close": 174.7899932861328, "Volume": 56725400, "Stock": "AAPL", "Date": "2023-08-27"}
+
+2023-11-04 23:39:56 Produced message on topic Stock_Topic with value of {"Open": 385.0, "High": 386.8800048828125, "Low": 378.3599853515625, "Close": 379.80999755859375, "Volume": 3692800, "Stock": "NFLX", "Date": "2023-08-27"}
+
+2023-11-04 23:39:57 Produced message on topic Stock_Topic with value of {"Open": 130.75999450683594, "High": 132.02999877929688, "Low": 129.60000610351562, "Close": 130.25, "Volume": 26397300, "Stock": "GOOGL", "Date": "2023-08-27"}
+
+2023-11-04 23:39:58 Produced message on topic Stock_Topic with value of {"Open": 174.1999969482422, "High": 176.97000122070312, "Low": 174.14999389648438, "Close": 176.0800018310547, "Volume": 46172700, "Stock": "AAPL", "Date": "2023-08-26"}
+
+2023-11-04 23:39:59 Produced message on topic Stock_Topic with value of {"Open": 316.5899963378906, "High": 317.6700134277344, "Low": 315.0, "Close": 317.5400085449219, "Volume": 17836000, "Stock": "MSFT", "Date": "2023-08-26"}
+
+2023-11-04 23:40:00 Produced message on topic Stock_Topic with value of {"Open": 129.8300018310547, "High": 131.1699981689453, "Low": 128.9600067138672, "Close": 131.11000061035156, "Volume": 20094600, "Stock": "GOOGL", "Date": "2023-08-26"}
+
+2023-11-04 23:40:01 Produced message on topic Stock_Topic with value of {"Open": 4310.6201171875, "High": 4338.509765625, "Low": 4302.7001953125, "Close": 4337.43994140625, "Volume": 3195650000, "Stock": "^GSPC", "Date": "2023-08-26"}
+
+2023-11-04 23:40:02 Produced message on topic Stock_Topic with value of {"Open": 382.8999938964844, "High": 386.6199951171875, "Low": 380.80999755859375, "Close": 384.7999877929688, "Volume": 3757300, "Stock": "NFLX", "Date": "2023-08-26"}
+
+2023-11-04 23:40:03 Produced message on topic Stock_Topic with value of {"Open": 129.77000427246094, "High": 130.36000061035156, "Low": 127.22000122070312, "Close": 128.57000732421875, "Volume": 25718700, "Stock": "GOOGL", "Date": "2023-08-25"}
+
+2023-11-04 23:40:04 Produced message on topic Stock_Topic with value of {"Open": 174.82000732421875, "High": 175.1999969482422, "Low": 171.66000366210938, "Close": 171.9600067138672, "Volume": 64588900, "Stock": "AAPL", "Date": "2023-08-25"}
+
+2023-11-04 23:40:05 Produced message on topic Stock_Topic with value of {"Open": 4312.8798828125, "High": 4313.009765625, "Low": 4265.97998046875, "Close": 4273.52978515625, "Volume": 3472340000, "Stock": "^GSPC", "Date": "2023-08-25"}
+
+2023-11-04 23:40:06 Produced message on topic Stock_Topic with value of {"Open": 315.1300048828125, "High": 315.8800048828125, "Low": 310.0199890136719, "Close": 312.1400146484375, "Volume": 26297600, "Stock": "MSFT", "Date": "2023-08-25"}
+
+2023-11-04 23:40:07 Produced message on topic Stock_Topic with value of {"Open": 382.8800048828125, "High": 384.55999755859375, "Low": 377.3599853515625, "Close": 379.25, "Volume": 4089400, "Stock": "NFLX", "Date": "2023-08-25"}
+
+2023-11-04 23:40:08 Produced message on topic Stock_Topic with value of {"Open": 312.29998779296875, "High": 314.29998779296875, "Low": 309.69000244140625, "Close": 312.7900085449219, "Volume": 19410100, "Stock": "MSFT", "Date": "2023-08-24"}
+
+2023-11-04 23:40:09 Produced message on topic Stock_Topic with value of {"Open": 4282.6298828125, "High": 4292.06982421875, "Low": 4238.6298828125, "Close": 4274.509765625, "Volume": 3875880000, "Stock": "^GSPC", "Date": "2023-08-24"}
+
+2023-11-04 23:40:10 Produced message on topic Stock_Topic with value of {"Open": 172.6199951171875, "High": 173.0399932861328, "Low": 169.0500030517578, "Close": 170.42999267578125, "Volume": 66921800, "Stock": "AAPL", "Date": "2023-08-24"}
+
+2023-11-04 23:40:11 Produced message on topic Stock_Topic with value of {"Open": 128.57000732421875, "High": 130.89999389648438, "Low": 128.57000732421875, "Close": 130.5399932861328, "Volume": 22746500, "Stock": "GOOGL", "Date": "2023-08-24"}
+
+2023-11-04 23:40:12 Produced message on topic Stock_Topic with value of {"Open": 382.3999938964844, "High": 384.2200012207031, "Low": 376.25, "Close": 377.5899963378906, "Volume": 3843500, "Stock": "NFLX", "Date": "2023-08-24"}
+
+2023-11-04 23:40:13 Produced message on topic Stock_Topic with value of {"Open": 169.33999633789062, "High": 172.02999877929688, "Low": 167.6199951171875, "Close": 170.69000244140625, "Volume": 56294400, "Stock": "AAPL", "Date": "2023-08-23"}
+
+2023-11-04 23:40:14 Produced message on topic Stock_Topic with value of {"Open": 375.6000061035156, "High": 378.9599914550781, "Low": 371.1000061035156, "Close": 376.3599853515625, "Volume": 4369900, "Stock": "NFLX", "Date": "2023-08-23"}
+
+2023-11-04 23:40:15 Produced message on topic Stock_Topic with value of {"Open": 4269.64990234375, "High": 4317.27001953125, "Low": 4264.3798828125, "Close": 4299.7001953125, "Volume": 3846230000, "Stock": "^GSPC", "Date": "2023-08-23"}
+
+2023-11-04 23:40:16 Produced message on topic Stock_Topic with value of {"Open": 129.83999633789062, "High": 133.3000030517578, "Low": 129.7899932861328, "Close": 132.30999755859375, "Volume": 22513100, "Stock": "GOOGL", "Date": "2023-08-23"}
+
+2023-11-04 23:40:17 Produced message on topic Stock_Topic with value of {"Open": 310.989990234375, "High": 315.4800109863281, "Low": 309.45001220703125, "Close": 313.6400146484375, "Volume": 19683600, "Stock": "MSFT", "Date": "2023-08-23"}
+
+2023-11-04 23:40:18 Produced message on topic Stock_Topic with value of {"Open": 172.02000427246094, "High": 173.07000732421875, "Low": 170.33999633789062, "Close": 171.2100067138672, "Volume": 51814200, "Stock": "AAPL", "Date": "2023-08-22"}
+
+2023-11-04 23:40:19 Produced message on topic Stock_Topic with value of {"Open": 380.0, "High": 382.5799865722656, "Low": 375.3500061035156, "Close": 377.6000061035156, "Volume": 4198700, "Stock": "NFLX", "Date": "2023-08-22"}
+
+2023-11-04 23:40:20 Produced message on topic Stock_Topic with value of {"Open": 4328.18017578125, "High": 4333.14990234375, "Low": 4274.85986328125, "Close": 4288.0498046875, "Volume": 3865960000, "Stock": "^GSPC", "Date": "2023-08-22"}
+
+2023-11-04 23:40:21 Produced message on topic Stock_Topic with value of {"Open": 133.27999877929688, "High": 134.0500030517578, "Low": 130.36000061035156, "Close": 130.86000061035156, "Volume": 30848100, "Stock": "GOOGL", "Date": "2023-08-22"}
+
+2023-11-04 23:40:22 Produced message on topic Stock_Topic with value of {"Open": 317.75, "High": 319.4700012207031, "Low": 314.9800109863281, "Close": 315.75, "Volume": 24140300, "Stock": "MSFT", "Date": "2023-08-22"}
+
+2023-11-04 23:40:23 Produced message on topic Stock_Topic with value of {"Open": 377.4800109863281, "High": 384.80999755859375, "Low": 376.7999877929688, "Close": 380.3299865722656, "Volume": 3102100, "Stock": "NFLX", "Date": "2023-08-21"}
+
+2023-11-04 23:40:24 Produced message on topic Stock_Topic with value of {"Open": 4284.52001953125, "High": 4300.580078125, "Low": 4260.2099609375, "Close": 4288.39013671875, "Volume": 3938660000, "Stock": "^GSPC", "Date": "2023-08-21"}
+
+2023-11-04 23:40:25 Produced message on topic Stock_Topic with value of {"Open": 316.2799987792969, "High": 321.8900146484375, "Low": 315.17999267578125, "Close": 321.79998779296875, "Volume": 20570000, "Stock": "MSFT", "Date": "2023-08-21"}
+
+2023-11-04 23:40:26 Produced message on topic Stock_Topic with value of {"Open": 171.22000122070312, "High": 174.3000030517578, "Low": 170.92999267578125, "Close": 173.75, "Volume": 52164500, "Stock": "AAPL", "Date": "2023-08-21"}
+
+2023-11-04 23:40:27 Produced message on topic Stock_Topic with value of {"Open": 131.2100067138672, "High": 134.4199981689453, "Low": 131.1699981689453, "Close": 134.1699981689453, "Volume": 22288000, "Stock": "GOOGL", "Date": "2023-08-21"}
+
+2023-11-04 23:40:28 Produced message on topic Stock_Topic with value of {"Open": 4269.75, "High": 4281.14990234375, "Low": 4216.4501953125, "Close": 4229.4501953125, "Volume": 3953830000, "Stock": "^GSPC", "Date": "2023-08-20"}
+
+2023-11-04 23:40:29 Produced message on topic Stock_Topic with value of {"Open": 377.1099853515625, "High": 394.8999938964844, "Low": 372.8500061035156, "Close": 376.75, "Volume": 8878100, "Stock": "NFLX", "Date": "2023-08-20"}
+
+2023-11-04 23:40:30 Produced message on topic Stock_Topic with value of {"Open": 320.8299865722656, "High": 321.3900146484375, "Low": 311.2099914550781, "Close": 313.3900146484375, "Volume": 21033500, "Stock": "MSFT", "Date": "2023-08-20"}
+
+2023-11-04 23:40:31 Produced message on topic Stock_Topic with value of {"Open": 172.25999450683594, "High": 173.6300048828125, "Low": 170.82000732421875, "Close": 172.39999389648438, "Volume": 49594600, "Stock": "AAPL", "Date": "2023-08-20"}
+
+2023-11-04 23:40:32 Produced message on topic Stock_Topic with value of {"Open": 133.94000244140625, "High": 134.25999450683594, "Low": 131.83999633789062, "Close": 132.42999267578125, "Volume": 22989400, "Stock": "GOOGL", "Date": "2023-08-20"}
+
+2023-11-04 23:40:33 Produced message on topic Stock_Topic with value of {"Open": 314.0299987792969, "High": 320.0400085449219, "Low": 314.0, "Close": 318.9599914550781, "Volume": 20720100, "Stock": "MSFT", "Date": "2023-08-19"}
+
+2023-11-04 23:40:34 Produced message on topic Stock_Topic with value of {"Open": 4233.830078125, "High": 4268.5, "Low": 4220.47998046875, "Close": 4263.75, "Volume": 3777600000, "Stock": "^GSPC", "Date": "2023-08-19"}
+
+2023-11-04 23:40:35 Produced message on topic Stock_Topic with value of {"Open": 171.08999633789062, "High": 174.2100067138672, "Low": 170.97000122070312, "Close": 173.66000366210938, "Volume": 53020300, "Stock": "AAPL", "Date": "2023-08-19"}
+
+2023-11-04 23:40:36 Produced message on topic Stock_Topic with value of {"Open": 376.5, "High": 380.2200012207031, "Low": 373.5799865722656, "Close": 376.8999938964844, "Volume": 4303700, "Stock": "NFLX", "Date": "2023-08-19"}
+
+2023-11-04 23:40:37 Produced message on topic Stock_Topic with value of {"Open": 132.7899932861328, "High": 135.57000732421875, "Low": 132.52999877929688, "Close": 135.24000549316406, "Volume": 26752300, "Stock": "GOOGL", "Date": "2023-08-19"}
+
+2023-11-04 23:40:38 Produced message on topic Stock_Topic with value of {"Open": 319.0899963378906, "High": 319.9800109863281, "Low": 314.8999938964844, "Close": 319.3599853515625, "Volume": 16965600, "Stock": "MSFT", "Date": "2023-08-18"}
+
+2023-11-04 23:40:39 Produced message on topic Stock_Topic with value of {"Open": 135.07000732421875, "High": 135.49000549316406, "Low": 133.4499969482422, "Close": 135.07000732421875, "Volume": 19832600, "Stock": "GOOGL", "Date": "2023-08-18"}
+
+2023-11-04 23:40:40 Produced message on topic Stock_Topic with value of {"Open": 4259.31005859375, "High": 4267.1298828125, "Low": 4225.91015625, "Close": 4258.18994140625, "Volume": 3581470000, "Stock": "^GSPC", "Date": "2023-08-18"}
+
+2023-11-04 23:40:41 Produced message on topic Stock_Topic with value of {"Open": 378.010009765625, "High": 378.6000061035156, "Low": 367.239990234375, "Close": 372.5899963378906, "Volume": 5034800, "Stock": "NFLX", "Date": "2023-08-18"}
+
+2023-11-04 23:40:42 Produced message on topic Stock_Topic with value of {"Open": 173.7899932861328, "High": 175.4499969482422, "Low": 172.67999267578125, "Close": 174.91000366210938, "Volume": 48527900, "Stock": "AAPL", "Date": "2023-08-18"}
+
+2023-11-04 23:40:43 Produced message on topic Stock_Topic with value of {"Open": 316.54998779296875, "High": 329.19000244140625, "Low": 316.29998779296875, "Close": 327.260009765625, "Volume": 25645500, "Stock": "MSFT", "Date": "2023-08-17"}
+
+2023-11-04 23:40:44 Produced message on topic Stock_Topic with value of {"Open": 134.00999450683594, "High": 138.16000366210938, "Low": 134.00999450683594, "Close": 137.5800018310547, "Volume": 27583200, "Stock": "GOOGL", "Date": "2023-08-17"}
+
+2023-11-04 23:40:45 Produced message on topic Stock_Topic with value of {"Open": 368.4299926757813, "High": 382.5199890136719, "Low": 367.7699890136719, "Close": 381.510009765625, "Volume": 4773400, "Stock": "NFLX", "Date": "2023-08-17"}
+
+2023-11-04 23:40:46 Produced message on topic Stock_Topic with value of {"Open": 173.8000030517578, "High": 177.99000549316406, "Low": 173.17999267578125, "Close": 177.49000549316406, "Volume": 57224100, "Stock": "AAPL", "Date": "2023-08-17"}
+
+2023-11-04 23:40:47 Produced message on topic Stock_Topic with value of {"Open": 4234.7900390625, "High": 4324.10009765625, "Low": 4219.5498046875, "Close": 4308.5, "Volume": 3902030000, "Stock": "^GSPC", "Date": "2023-08-17"}
+
+2023-11-04 23:40:48 Produced message on topic Stock_Topic with value of {"Open": 324.75, "High": 330.29998779296875, "Low": 323.17999267578125, "Close": 329.82000732421875, "Volume": 19891200, "Stock": "MSFT", "Date": "2023-08-16"}
+
+2023-11-04 23:40:49 Produced message on topic Stock_Topic with value of {"Open": 176.80999755859375, "High": 179.0500030517578, "Low": 175.8000030517578, "Close": 178.99000549316406, "Volume": 42390800, "Stock": "AAPL", "Date": "2023-08-16"}
+
+2023-11-04 23:40:50 Produced message on topic Stock_Topic with value of {"Open": 378.0499877929688, "High": 387.1700134277344, "Low": 377.760009765625, "Close": 385.9500122070313, "Volume": 3299800, "Stock": "NFLX", "Date": "2023-08-16"}
+
+2023-11-04 23:40:51 Produced message on topic Stock_Topic with value of {"Open": 4289.02001953125, "High": 4341.72998046875, "Low": 4283.7900390625, "Close": 4335.66015625, "Volume": 3174630000, "Stock": "^GSPC", "Date": "2023-08-16"}
+
+2023-11-04 23:40:52 Produced message on topic Stock_Topic with value of {"Open": 136.94000244140625, "High": 138.94000244140625, "Low": 135.61000061035156, "Close": 138.4199981689453, "Volume": 19278100, "Stock": "GOOGL", "Date": "2023-08-16"}
+
+2023-11-04 23:40:53 Produced message on topic Stock_Topic with value of {"Open": 138.5, "High": 139.72000122070312, "Low": 137.3300018310547, "Close": 138.05999755859375, "Volume": 27786600, "Stock": "GOOGL", "Date": "2023-08-15"}
+
+2023-11-04 23:40:55 Produced message on topic Stock_Topic with value of {"Open": 4339.75, "High": 4385.4599609375, "Low": 4339.64013671875, "Close": 4358.240234375, "Volume": 3520240000, "Stock": "^GSPC", "Date": "2023-08-15"}
+
+2023-11-04 23:40:56 Produced message on topic Stock_Topic with value of {"Open": 178.10000610351562, "High": 179.72000122070312, "Low": 177.9499969482422, "Close": 178.38999938964844, "Volume": 43698000, "Stock": "AAPL", "Date": "2023-08-15"}
+
+2023-11-04 23:40:57 Produced message on topic Stock_Topic with value of {"Open": 385.5799865722656, "High": 388.7000122070313, "Low": 372.25, "Close": 373.3200073242188, "Volume": 7288900, "Stock": "NFLX", "Date": "2023-08-15"}
+
+2023-11-04 23:40:58 Produced message on topic Stock_Topic with value of {"Open": 330.9599914550781, "High": 331.1000061035156, "Low": 327.6700134277344, "Close": 328.3900146484375, "Volume": 20557100, "Stock": "MSFT", "Date": "2023-08-15"}
+
+2023-11-04 23:40:59 Produced message on topic Stock_Topic with value of {"Open": 372.7799987792969, "High": 377.80999755859375, "Low": 365.3399963378906, "Close": 365.9299926757813, "Volume": 9151400, "Stock": "NFLX", "Date": "2023-08-14"}
+
+2023-11-04 23:41:00 Produced message on topic Stock_Topic with value of {"Open": 138.5800018310547, "High": 141.11000061035156, "Low": 138.5800018310547, "Close": 140.5500030517578, "Volume": 25884300, "Stock": "GOOGL", "Date": "2023-08-14"}
+
+2023-11-04 23:41:01 Produced message on topic Stock_Topic with value of {"Open": 331.2099914550781, "High": 332.82000732421875, "Low": 329.1400146484375, "Close": 332.4200134277344, "Volume": 20063200, "Stock": "MSFT", "Date": "2023-08-14"}
+
+2023-11-04 23:41:02 Produced message on topic Stock_Topic with value of {"Open": 4366.58984375, "High": 4378.64013671875, "Low": 4345.33984375, "Close": 4376.9501953125, "Volume": 3601660000, "Stock": "^GSPC", "Date": "2023-08-14"}
+
+2023-11-04 23:41:03 Produced message on topic Stock_Topic with value of {"Open": 178.1999969482422, "High": 179.85000610351562, "Low": 177.60000610351562, "Close": 179.8000030517578, "Volume": 47551100, "Stock": "AAPL", "Date": "2023-08-14"}
+
+2023-11-04 23:41:04 Produced message on topic Stock_Topic with value of {"Open": 4380.93994140625, "High": 4385.85009765625, "Low": 4325.43017578125, "Close": 4349.60986328125, "Volume": 3713140000, "Stock": "^GSPC", "Date": "2023-08-13"}
+
+2023-11-04 23:41:05 Produced message on topic Stock_Topic with value of {"Open": 141.0500030517578, "High": 141.22000122070312, "Low": 138.25999450683594, "Close": 138.97000122070312, "Volume": 24765500, "Stock": "GOOGL", "Date": "2023-08-13"}
+
+2023-11-04 23:41:06 Produced message on topic Stock_Topic with value of {"Open": 366.4800109863281, "High": 368.8299865722656, "Low": 359.04998779296875, "Close": 361.2000122070313, "Volume": 7376100, "Stock": "NFLX", "Date": "2023-08-13"}
+
+2023-11-04 23:41:07 Produced message on topic Stock_Topic with value of {"Open": 180.07000732421875, "High": 182.33999633789065, "Low": 179.0399932861328, "Close": 180.7100067138672, "Volume": 56743100, "Stock": "AAPL", "Date": "2023-08-13"}
+
+2023-11-04 23:41:08 Produced message on topic Stock_Topic with value of {"Open": 330.57000732421875, "High": 333.6300048828125, "Low": 328.7200012207031, "Close": 331.1600036621094, "Volume": 19313100, "Stock": "MSFT", "Date": "2023-08-13"}
+
+2023-11-04 23:41:09 Produced message on topic Stock_Topic with value of {"Open": 139.3800048828125, "High": 140.0, "Low": 136.6199951171875, "Close": 137.36000061035156, "Volume": 23420500, "Stock": "GOOGL", "Date": "2023-08-12"}
+
+2023-11-04 23:41:10 Produced message on topic Stock_Topic with value of {"Open": 332.3800048828125, "High": 333.8299865722656, "Low": 326.3599853515625, "Close": 327.7300109863281, "Volume": 21072400, "Stock": "MSFT", "Date": "2023-08-12"}
+
+2023-11-04 23:41:11 Produced message on topic Stock_Topic with value of {"Open": 355.6400146484375, "High": 358.92999267578125, "Low": 352.04998779296875, "Close": 355.67999267578125, "Volume": 6312600, "Stock": "NFLX", "Date": "2023-08-12"}
+
+2023-11-04 23:41:12 Produced message on topic Stock_Topic with value of {"Open": 181.4199981689453, "High": 181.92999267578125, "Low": 178.13999938964844, "Close": 178.85000610351562, "Volume": 51427100, "Stock": "AAPL", "Date": "2023-08-12"}
+
+2023-11-04 23:41:13 Produced message on topic Stock_Topic with value of {"Open": 4360.490234375, "High": 4377.10009765625, "Low": 4311.97021484375, "Close": 4327.77978515625, "Volume": 0, "Stock": "^GSPC", "Date": "2023-08-12"}
+
+2023-11-04 23:41:14 Produced message on topic Stock_Topic with value of {"Open": 356.2099914550781, "High": 363.0799865722656, "Low": 354.7699890136719, "Close": 360.8200073242188, "Volume": 5128900, "Stock": "NFLX", "Date": "2023-08-11"}
+
+2023-11-04 23:41:15 Produced message on topic Stock_Topic with value of {"Open": 138.1699981689453, "High": 139.6300048828125, "Low": 137.99000549316406, "Close": 139.10000610351562, "Volume": 28501900, "Stock": "GOOGL", "Date": "2023-08-11"}
+
+2023-11-04 23:41:16 Produced message on topic Stock_Topic with value of {"Open": 331.04998779296875, "High": 336.1400146484375, "Low": 330.6000061035156, "Close": 332.6400146484375, "Volume": 22158000, "Stock": "MSFT", "Date": "2023-08-11"}
+
+2023-11-04 23:41:17 Produced message on topic Stock_Topic with value of {"Open": 176.75, "High": 179.0800018310547, "Low": 176.50999450683594, "Close": 178.72000122070312, "Volume": 52517000, "Stock": "AAPL", "Date": "2023-08-11"}
+
+2023-11-04 23:41:18 Produced message on topic Stock_Topic with value of {"Open": 4342.3701171875, "High": 4383.330078125, "Low": 4342.3701171875, "Close": 4373.6298828125, "Volume": 3409960000, "Stock": "^GSPC", "Date": "2023-08-11"}
+
+2023-11-04 23:41:19 Produced message on topic Stock_Topic with value of {"Open": 138.6300048828125, "High": 139.89999389648438, "Low": 137.17999267578125, "Close": 139.72000122070312, "Volume": 23515800, "Stock": "GOOGL", "Date": "2023-08-10"}
+
+2023-11-04 23:41:20 Produced message on topic Stock_Topic with value of {"Open": 329.5899963378906, "High": 333.4599914550781, "Low": 327.4100036621094, "Close": 332.0599975585937, "Volume": 18338500, "Stock": "MSFT", "Date": "2023-08-10"}
+
+2023-11-04 23:41:21 Produced message on topic Stock_Topic with value of {"Open": 4345.22998046875, "High": 4393.56982421875, "Low": 4337.5400390625, "Close": 4373.2001953125, "Volume": 3794850000, "Stock": "^GSPC", "Date": "2023-08-10"}
+
+2023-11-04 23:41:22 Produced message on topic Stock_Topic with value of {"Open": 176.64999389648438, "High": 178.4199981689453, "Low": 174.8000030517578, "Close": 177.14999389648438, "Volume": 57549400, "Stock": "AAPL", "Date": "2023-08-10"}
+
+2023-11-04 23:41:23 Produced message on topic Stock_Topic with value of {"Open": 361.1000061035156, "High": 362.7000122070313, "Low": 353.8900146484375, "Close": 355.7200012207031, "Volume": 5908400, "Stock": "NFLX", "Date": "2023-08-10"}
+
+2023-11-04 23:41:24 Produced message on topic Stock_Topic with value of {"Open": 4357.35009765625, "High": 4364.2001953125, "Low": 4303.83984375, "Close": 4314.60009765625, "Volume": 3686030000, "Stock": "^GSPC", "Date": "2023-08-09"}
+
+2023-11-04 23:41:25 Produced message on topic Stock_Topic with value of {"Open": 332.489990234375, "High": 335.5899963378906, "Low": 328.29998779296875, "Close": 330.1099853515625, "Volume": 23153600, "Stock": "MSFT", "Date": "2023-08-09"}
+
+2023-11-04 23:41:26 Produced message on topic Stock_Topic with value of {"Open": 351.0, "High": 354.7900085449219, "Low": 344.7300109863281, "Close": 346.19000244140625, "Volume": 11429600, "Stock": "NFLX", "Date": "2023-08-09"}
+
+2023-11-04 23:41:27 Produced message on topic Stock_Topic with value of {"Open": 139.4499969482422, "High": 140.72000122070312, "Low": 137.3800048828125, "Close": 137.9600067138672, "Volume": 23375000, "Stock": "GOOGL", "Date": "2023-08-09"}
+
+2023-11-04 23:41:28 Produced message on topic Stock_Topic with value of {"Open": 175.5800018310547, "High": 177.5800018310547, "Low": 175.11000061035156, "Close": 175.83999633789062, "Volume": 54764400, "Stock": "AAPL", "Date": "2023-08-09"}
+
+2023-11-04 23:41:29 Produced message on topic Stock_Topic with value of {"Open": 4321.35986328125, "High": 4339.5400390625, "Low": 4269.68994140625, "Close": 4278.0, "Volume": 3969730000, "Stock": "^GSPC", "Date": "2023-08-08"}
+
+2023-11-04 23:41:30 Produced message on topic Stock_Topic with value of {"Open": 176.0399932861328, "High": 177.83999633789062, "Low": 175.19000244140625, "Close": 175.4600067138672, "Volume": 59302900, "Stock": "AAPL", "Date": "2023-08-08"}
+
+2023-11-04 23:41:31 Produced message on topic Stock_Topic with value of {"Open": 138.5, "High": 139.66000366210938, "Low": 137.3800048828125, "Close": 137.75, "Volume": 26066000, "Stock": "GOOGL", "Date": "2023-08-08"}
+
+2023-11-04 23:41:32 Produced message on topic Stock_Topic with value of {"Open": 404.739990234375, "High": 408.9500122070313, "Low": 392.260009765625, "Close": 401.7699890136719, "Volume": 28074400, "Stock": "NFLX", "Date": "2023-08-08"}
+
+2023-11-04 23:41:33 Produced message on topic Stock_Topic with value of {"Open": 332.1499938964844, "High": 336.8800048828125, "Low": 330.9100036621094, "Close": 331.32000732421875, "Volume": 25052100, "Stock": "MSFT", "Date": "2023-08-08"}
+
+2023-11-04 23:41:34 Produced message on topic Stock_Topic with value of {"Open": 405.6300048828125, "High": 410.6400146484375, "Low": 398.010009765625, "Close": 400.9599914550781, "Volume": 12768900, "Stock": "NFLX", "Date": "2023-08-07"}
+
+2023-11-04 23:41:35 Produced message on topic Stock_Topic with value of {"Open": 137.3300018310547, "High": 137.8699951171875, "Low": 135.0800018310547, "Close": 135.60000610351562, "Volume": 26315200, "Stock": "GOOGL", "Date": "2023-08-07"}
+
+2023-11-04 23:41:36 Produced message on topic Stock_Topic with value of {"Open": 175.30999755859375, "High": 175.4199981689453, "Low": 172.63999938964844, "Close": 172.8800048828125, "Volume": 64189300, "Stock": "AAPL", "Date": "2023-08-07"}
+
+2023-11-04 23:41:37 Produced message on topic Stock_Topic with value of {"Open": 4273.85009765625, "High": 4276.56005859375, "Low": 4223.02978515625, "Close": 4224.16015625, "Volume": 4004030000, "Stock": "^GSPC", "Date": "2023-08-07"}
+
+2023-11-04 23:41:38 Produced message on topic Stock_Topic with value of {"Open": 331.7200012207031, "High": 331.9200134277344, "Low": 325.45001220703125, "Close": 326.6700134277344, "Volume": 25012600, "Stock": "MSFT", "Date": "2023-08-07"}
+
+2023-11-04 23:41:39 Produced message on topic Stock_Topic with value of {"Open": 135.0399932861328, "High": 137.66000366210938, "Low": 133.9499969482422, "Close": 136.5, "Volume": 26317900, "Stock": "GOOGL", "Date": "2023-08-06"}
+
+2023-11-04 23:41:40 Produced message on topic Stock_Topic with value of {"Open": 403.3200073242188, "High": 407.5400085449219, "Low": 398.5199890136719, "Close": 406.8399963378906, "Volume": 7390000, "Stock": "NFLX", "Date": "2023-08-06"}
+
+2023-11-04 23:41:41 Produced message on topic Stock_Topic with value of {"Open": 4210.39990234375, "High": 4255.83984375, "Low": 4189.22021484375, "Close": 4217.0400390625, "Volume": 3776100000, "Stock": "^GSPC", "Date": "2023-08-06"}
+
+2023-11-04 23:41:42 Produced message on topic Stock_Topic with value of {"Open": 325.4700012207031, "High": 332.7300109863281, "Low": 324.3900146484375, "Close": 329.32000732421875, "Volume": 24374700, "Stock": "MSFT", "Date": "2023-08-06"}
+
+2023-11-04 23:41:43 Produced message on topic Stock_Topic with value of {"Open": 170.91000366210938, "High": 174.00999450683594, "Low": 169.92999267578125, "Close": 173.0, "Volume": 55980100, "Stock": "AAPL", "Date": "2023-08-06"}
+
+2023-11-04 23:41:44 Produced message on topic Stock_Topic with value of {"Open": 173.0500030517578, "High": 173.6699981689453, "Low": 171.4499969482422, "Close": 173.44000244140625, "Volume": 43816600, "Stock": "AAPL", "Date": "2023-08-05"}
+
+2023-11-04 23:41:45 Produced message on topic Stock_Topic with value of {"Open": 409.6799926757813, "High": 416.6900024414063, "Low": 408.3900146484375, "Close": 413.7300109863281, "Volume": 6459200, "Stock": "NFLX", "Date": "2023-08-05"}
+
+2023-11-04 23:41:46 Produced message on topic Stock_Topic with value of {"Open": 137.8300018310547, "High": 139.36000061035156, "Low": 137.4199981689453, "Close": 138.80999755859375, "Volume": 44814300, "Stock": "GOOGL", "Date": "2023-08-05"}
+
+2023-11-04 23:41:47 Produced message on topic Stock_Topic with value of {"Open": 331.29998779296875, "High": 331.8399963378906, "Low": 327.6000061035156, "Close": 330.5299987792969, "Volume": 31153600, "Stock": "MSFT", "Date": "2023-08-05"}
+
+2023-11-04 23:41:48 Produced message on topic Stock_Topic with value of {"Open": 4235.7900390625, "High": 4259.3798828125, "Low": 4219.43017578125, "Close": 4247.68017578125, "Volume": 3821820000, "Stock": "^GSPC", "Date": "2023-08-05"}
+
+2023-11-04 23:41:49 Produced message on topic Stock_Topic with value of {"Open": 171.8800048828125, "High": 173.05999755859375, "Low": 170.64999389648438, "Close": 171.10000610351562, "Volume": 57157000, "Stock": "AAPL", "Date": "2023-08-04"}
+
+2023-11-04 23:41:50 Produced message on topic Stock_Topic with value of {"Open": 4232.419921875, "High": 4232.419921875, "Low": 4181.419921875, "Close": 4186.77001953125, "Volume": 3869370000, "Stock": "^GSPC", "Date": "2023-08-04"}
+
+2023-11-04 23:41:51 Produced message on topic Stock_Topic with value of {"Open": 128.16000366210938, "High": 128.30999755859375, "Low": 125.06999969482422, "Close": 125.61000061035156, "Volume": 84366200, "Stock": "GOOGL", "Date": "2023-08-04"}
+
+2023-11-04 23:41:52 Produced message on topic Stock_Topic with value of {"Open": 416.0199890136719, "High": 418.8399963378906, "Low": 410.1099853515625, "Close": 411.25, "Volume": 6299600, "Stock": "NFLX", "Date": "2023-08-04"}
+
+2023-11-04 23:41:53 Produced message on topic Stock_Topic with value of {"Open": 345.0199890136719, "High": 346.20001220703125, "Low": 337.6199951171875, "Close": 340.6700134277344, "Volume": 55053800, "Stock": "MSFT", "Date": "2023-08-04"}
+
+2023-11-04 23:41:54 Produced message on topic Stock_Topic with value of {"Open": 340.5400085449219, "High": 341.6300048828125, "Low": 326.94000244140625, "Close": 327.8900146484375, "Volume": 37828500, "Stock": "MSFT", "Date": "2023-08-03"}
+
+2023-11-04 23:41:55 Produced message on topic Stock_Topic with value of {"Open": 170.3699951171875, "High": 171.3800048828125, "Low": 165.6699981689453, "Close": 166.88999938964844, "Volume": 70625300, "Stock": "AAPL", "Date": "2023-08-03"}
+
+2023-11-04 23:41:56 Produced message on topic Stock_Topic with value of {"Open": 4175.990234375, "High": 4183.60009765625, "Low": 4127.89990234375, "Close": 4137.22998046875, "Volume": 4277640000, "Stock": "^GSPC", "Date": "2023-08-03"}
+
+2023-11-04 23:41:57 Produced message on topic Stock_Topic with value of {"Open": 123.2699966430664, "High": 124.33000183105467, "Low": 121.2699966430664, "Close": 122.27999877929688, "Volume": 57061100, "Stock": "GOOGL", "Date": "2023-08-03"}
+
+2023-11-04 23:41:58 Produced message on topic Stock_Topic with value of {"Open": 411.4200134277344, "High": 417.30999755859375, "Low": 401.5400085449219, "Close": 403.5400085449219, "Volume": 6849700, "Stock": "NFLX", "Date": "2023-08-03"}
+
+2023-11-04 23:41:59 Produced message on topic Stock_Topic with value of {"Open": 330.42999267578125, "High": 336.7200012207031, "Low": 328.3999938964844, "Close": 329.8099975585937, "Volume": 29856500, "Stock": "MSFT", "Date": "2023-08-02"}
+
+2023-11-04 23:42:00 Produced message on topic Stock_Topic with value of {"Open": 4152.93017578125, "High": 4156.7001953125, "Low": 4103.77978515625, "Close": 4117.3701171875, "Volume": 4019500000, "Stock": "^GSPC", "Date": "2023-08-02"}
+
+2023-11-04 23:42:01 Produced message on topic Stock_Topic with value of {"Open": 406.4200134277344, "High": 410.2099914550781, "Low": 395.6199951171875, "Close": 397.8699951171875, "Volume": 4997600, "Stock": "NFLX", "Date": "2023-08-02"}
+
+2023-11-04 23:42:02 Produced message on topic Stock_Topic with value of {"Open": 122.87999725341795, "High": 123.30999755859376, "Low": 120.20999908447266, "Close": 122.16999816894533, "Volume": 44566500, "Stock": "GOOGL", "Date": "2023-08-02"}
+
+2023-11-04 23:42:03 Produced message on topic Stock_Topic with value of {"Open": 166.91000366210938, "High": 168.9600067138672, "Low": 166.8300018310547, "Close": 168.22000122070312, "Volume": 58499100, "Stock": "AAPL", "Date": "2023-08-02"}
+
+2023-11-04 23:42:04 Produced message on topic Stock_Topic with value of {"Open": 4139.39013671875, "High": 4177.47021484375, "Low": 4132.93994140625, "Close": 4166.81982421875, "Volume": 3911140000, "Stock": "^GSPC", "Date": "2023-08-01"}
+
+2023-11-04 23:42:05 Produced message on topic Stock_Topic with value of {"Open": 123.20999908447266, "High": 125.4000015258789, "Low": 122.75, "Close": 124.45999908447266, "Volume": 28940100, "Stock": "GOOGL", "Date": "2023-08-01"}
+
+2023-11-04 23:42:07 Produced message on topic Stock_Topic with value of {"Open": 333.4100036621094, "High": 339.45001220703125, "Low": 331.8299865722656, "Close": 337.3099975585937, "Volume": 22828100, "Stock": "MSFT", "Date": "2023-08-01"}
+
+2023-11-04 23:42:08 Produced message on topic Stock_Topic with value of {"Open": 402.3500061035156, "High": 412.8200073242188, "Low": 399.4100036621094, "Close": 410.0799865722656, "Volume": 5317100, "Stock": "NFLX", "Date": "2023-08-01"}
+
+2023-11-04 23:42:09 Produced message on topic Stock_Topic with value of {"Open": 169.02000427246094, "High": 171.1699981689453, "Low": 168.8699951171875, "Close": 170.2899932861328, "Volume": 51131000, "Stock": "AAPL", "Date": "2023-08-01"}
+
+2023-11-04 23:42:10 Produced message on topic Stock_Topic with value of {"Open": 409.239990234375, "High": 412.5199890136719, "Low": 404.6300048828125, "Close": 411.6900024414063, "Volume": 3877600, "Stock": "NFLX", "Date": "2023-07-31"}
+
+2023-11-04 23:42:11 Produced message on topic Stock_Topic with value of {"Open": 4171.330078125, "High": 4195.5498046875, "Low": 4153.1201171875, "Close": 4193.7998046875, "Volume": 4249470000, "Stock": "^GSPC", "Date": "2023-07-31"}
+
+2023-11-04 23:42:12 Produced message on topic Stock_Topic with value of {"Open": 338.8500061035156, "High": 339.0, "Low": 334.69000244140625, "Close": 338.1099853515625, "Volume": 20265300, "Stock": "MSFT", "Date": "2023-07-31"}
+
+2023-11-04 23:42:13 Produced message on topic Stock_Topic with value of {"Open": 169.35000610351562, "High": 170.89999389648438, "Low": 167.89999389648438, "Close": 170.77000427246094, "Volume": 44846000, "Stock": "AAPL", "Date": "2023-07-31"}
+
+2023-11-04 23:42:14 Produced message on topic Stock_Topic with value of {"Open": 125.05999755859376, "High": 125.37000274658205, "Low": 122.69000244140624, "Close": 124.08000183105467, "Volume": 26292300, "Stock": "GOOGL", "Date": "2023-07-31"}
+
+2023-11-04 23:42:15 Produced message on topic Stock_Topic with value of {"Open": 124.06999969482422, "High": 126.48999786376952, "Low": 123.72000122070312, "Close": 126.4499969482422, "Volume": 30082400, "Stock": "GOOGL", "Date": "2023-07-30"}
+
+2023-11-04 23:42:16 Produced message on topic Stock_Topic with value of {"Open": 4201.27001953125, "High": 4245.64013671875, "Low": 4197.740234375, "Close": 4237.85986328125, "Volume": 4224900000, "Stock": "^GSPC", "Date": "2023-07-30"}
+
+2023-11-04 23:42:17 Produced message on topic Stock_Topic with value of {"Open": 171.0, "High": 174.22999572753906, "Low": 170.1199951171875, "Close": 173.97000122070312, "Volume": 56934900, "Stock": "AAPL", "Date": "2023-07-30"}
+
+2023-11-04 23:42:18 Produced message on topic Stock_Topic with value of {"Open": 414.7699890136719, "High": 420.6000061035156, "Low": 414.1799926757813, "Close": 420.1900024414063, "Volume": 4806100, "Stock": "NFLX", "Date": "2023-07-30"}
+
+2023-11-04 23:42:19 Produced message on topic Stock_Topic with value of {"Open": 339.7900085449219, "High": 347.4200134277344, "Low": 339.6499938964844, "Close": 346.07000732421875, "Volume": 28158800, "Stock": "MSFT", "Date": "2023-07-30"}
+
+2023-11-04 23:42:20 Produced message on topic Stock_Topic with value of {"Open": 128.4199981689453, "High": 128.97999572753906, "Low": 126.93000030517578, "Close": 127.48999786376952, "Volume": 27124600, "Stock": "GOOGL", "Date": "2023-07-29"}
+
+2023-11-04 23:42:21 Produced message on topic Stock_Topic with value of {"Open": 175.52000427246094, "High": 177.77999877929688, "Low": 175.4600067138672, "Close": 177.57000732421875, "Volume": 77334800, "Stock": "AAPL", "Date": "2023-07-29"}
+
+2023-11-04 23:42:22 Produced message on topic Stock_Topic with value of {"Open": 347.239990234375, "High": 348.8299865722656, "Low": 344.7699890136719, "Close": 348.32000732421875, "Volume": 24348100, "Stock": "MSFT", "Date": "2023-07-29"}
+
+2023-11-04 23:42:23 Produced message on topic Stock_Topic with value of {"Open": 421.1700134277344, "High": 426.6900024414063, "Low": 417.1000061035156, "Close": 424.7099914550781, "Volume": 4476000, "Stock": "NFLX", "Date": "2023-07-29"}
+
+2023-11-04 23:42:24 Produced message on topic Stock_Topic with value of {"Open": 4268.259765625, "High": 4319.72021484375, "Low": 4268.259765625, "Close": 4317.77978515625, "Volume": 4669780000, "Stock": "^GSPC", "Date": "2023-07-29"}
+
+2023-11-04 23:42:25 Produced message on topic Stock_Topic with value of {"Open": 174.24000549316406, "High": 176.82000732421875, "Low": 173.35000610351562, "Close": 176.64999389648438, "Volume": 79763700, "Stock": "AAPL", "Date": "2023-07-28"}
+
+2023-11-04 23:42:26 Produced message on topic Stock_Topic with value of {"Open": 128.02000427246094, "High": 129.52999877929688, "Low": 127.86000061035156, "Close": 129.10000610351562, "Volume": 26380100, "Stock": "GOOGL", "Date": "2023-07-28"}
+
+2023-11-04 23:42:27 Produced message on topic Stock_Topic with value of {"Open": 349.6300048828125, "High": 354.3900146484375, "Low": 347.3299865722656, "Close": 352.79998779296875, "Volume": 23624000, "Stock": "MSFT", "Date": "2023-07-28"}
+
+2023-11-04 23:42:28 Produced message on topic Stock_Topic with value of {"Open": 428.760009765625, "High": 434.8200073242188, "Low": 425.5299987792969, "Close": 432.3599853515625, "Volume": 3664800, "Stock": "NFLX", "Date": "2023-07-28"}
+
+2023-11-04 23:42:29 Produced message on topic Stock_Topic with value of {"Open": 4334.22998046875, "High": 4373.6201171875, "Low": 4334.22998046875, "Close": 4358.33984375, "Volume": 4570960000, "Stock": "^GSPC", "Date": "2023-07-28"}
+

@@ -41,10 +41,10 @@ def main():
             'Date': row['Date']
         }
         m = json.dumps(data)
-        p.produce('your_topic_name', m.encode('utf-8'), callback=receipt)
+        p.produce('Stock_Topic', m.encode('utf-8'), callback=receipt)
         p.poll(1)
         p.flush()
-        time.sleep(3)
+        time.sleep(1)
 
 if __name__ == '__main__':
     main()
