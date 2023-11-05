@@ -46,6 +46,11 @@ Here's the link to our Dashboard with LookerStudio First time trying this platfo
 
 ![image](https://github.com/Frandiiile/Stock-Market-Real-Time-Analysis/assets/95171284/3540b2af-3a3d-4aea-8d96-ffed001f9401)
 
+You can choose indvidual Stocks to analyze : 
+
+![image](https://github.com/Frandiiile/Stock-Market-Real-Time-Analysis/assets/95171284/289f3ee7-b8fa-434d-b02b-09c6daf7005f)
+
+
 
 ## Acknowledgments
 
